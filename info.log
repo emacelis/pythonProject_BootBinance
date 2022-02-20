@@ -1,0 +1,2124 @@
+2022-01-02 13:43:01,681 INFO :: This message just shows basic information 
+2022-01-02 13:43:01,681 WARNING :: This message is about someting you should pay attention to 
+2022-01-02 13:49:26,003 INFO :: This is logged in all cases
+2022-01-02 13:49:26,003 INFO :: This is looged only if we execute the mian.py file
+2022-01-02 13:51:36,207 INFO :: This is logged in all cases
+2022-01-02 13:51:36,208 INFO :: This is looged only if we execute the mian.py file
+2022-01-02 14:10:32,894 INFO :: This is logged in all cases
+2022-01-02 14:13:24,179 INFO :: This is looged only if we execute the main.py file
+2022-01-02 14:13:44,269 INFO :: This is logged in all cases
+2022-01-02 14:13:44,269 INFO :: This is looged only if we execute the main.py file
+2022-01-02 14:13:56,482 INFO :: This is logged in all cases
+2022-01-02 14:13:56,482 INFO :: This is looged only if we execute the main.py file
+2022-01-02 14:14:50,356 INFO :: This is logged in all cases
+2022-01-02 14:14:50,357 INFO :: This is looged only if we execute the main.py file
+2022-01-02 14:17:44,701 INFO :: This is logged in all cases
+2022-01-02 14:17:44,701 INFO :: This is looged only if we execute the main.py file
+2022-01-02 14:33:54,963 INFO :: This is logged in all cases
+2022-01-02 14:33:54,963 INFO :: This is looged only if we execute the main.py file
+2022-01-02 14:35:10,736 INFO :: This is logged in all cases
+2022-01-02 14:35:10,736 INFO :: This is looged only if we execute the main.py file
+2022-01-02 14:36:15,498 INFO :: This is logged in all cases
+2022-01-02 14:37:01,334 INFO :: This is logged in all cases
+2022-01-02 14:37:15,835 INFO :: This is logged in all cases
+2022-01-02 14:37:15,835 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:24:51,383 INFO :: This is logged in all cases
+2022-01-04 15:24:51,383 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:24:51,383 INFO :: Binance futures inicialized
+2022-01-04 15:27:23,241 INFO :: This is logged in all cases
+2022-01-04 15:27:23,241 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:27:23,241 INFO :: Binance futures inicialized
+2022-01-04 15:47:10,192 INFO :: This is logged in all cases
+2022-01-04 15:47:10,192 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:47:10,192 INFO :: Binance futures inicialized
+2022-01-04 15:48:03,582 INFO :: This is logged in all cases
+2022-01-04 15:48:03,582 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:48:03,582 INFO :: Binance futures inicialized
+2022-01-04 15:49:18,473 INFO :: This is logged in all cases
+2022-01-04 15:49:18,473 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:49:18,473 INFO :: Binance futures inicialized
+2022-01-04 15:49:27,828 INFO :: This is logged in all cases
+2022-01-04 15:49:27,828 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:49:27,828 INFO :: Binance futures inicialized
+2022-01-04 15:50:12,027 INFO :: This is logged in all cases
+2022-01-04 15:50:12,027 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:50:12,027 INFO :: Binance futures inicialized
+2022-01-04 15:51:40,133 INFO :: This is logged in all cases
+2022-01-04 15:51:40,133 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:51:40,133 INFO :: Binance futures inicialized
+2022-01-04 15:52:16,671 INFO :: This is logged in all cases
+2022-01-04 15:52:16,672 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:52:39,478 INFO :: Binance futures inicialized
+2022-01-04 15:54:22,692 INFO :: This is logged in all cases
+2022-01-04 15:54:22,692 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:54:22,692 INFO :: Binance futures inicialized
+2022-01-04 15:54:54,809 ERROR :: Error while making GET request to /dapi/v1/ticker/bookTicker : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 15:55:29,241 INFO :: This is logged in all cases
+2022-01-04 15:55:29,242 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:55:29,242 INFO :: Binance futures inicialized
+2022-01-04 15:56:29,881 INFO :: This is logged in all cases
+2022-01-04 15:56:29,882 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:56:29,882 INFO :: Binance futures inicialized
+2022-01-04 15:58:04,456 INFO :: This is logged in all cases
+2022-01-04 15:58:04,456 INFO :: This is looged only if we execute the main.py file
+2022-01-04 15:58:04,456 INFO :: Binance futures inicialized
+2022-01-04 15:58:05,710 ERROR :: Error while making GET request to /dapi/v1/ticker/bookTicker : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 16:00:15,919 INFO :: This is logged in all cases
+2022-01-04 16:00:15,920 INFO :: This is looged only if we execute the main.py file
+2022-01-04 16:00:15,920 INFO :: Binance futures inicialized
+2022-01-04 16:00:17,631 ERROR :: Error while making GET request to /dapi/v1/ticker/bookTicker : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 16:02:34,161 INFO :: This is logged in all cases
+2022-01-04 16:02:34,162 INFO :: This is looged only if we execute the main.py file
+2022-01-04 16:02:34,162 INFO :: Binance futures inicialized
+2022-01-04 16:03:22,079 INFO :: This is logged in all cases
+2022-01-04 16:03:22,079 INFO :: This is looged only if we execute the main.py file
+2022-01-04 16:03:22,080 INFO :: Binance futures inicialized
+2022-01-04 16:03:34,800 INFO :: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+2022-01-04 16:03:34,800 INFO :: ascii should target any language(s) of ['Latin Based']
+2022-01-04 16:03:34,800 INFO :: ascii is most likely the one. Stopping the process.
+2022-01-04 16:06:17,037 INFO :: This is logged in all cases
+2022-01-04 16:06:17,037 INFO :: This is looged only if we execute the main.py file
+2022-01-04 16:06:17,038 INFO :: Binance futures inicialized
+2022-01-04 16:07:09,491 INFO :: This is logged in all cases
+2022-01-04 16:07:09,492 INFO :: This is looged only if we execute the main.py file
+2022-01-04 16:07:09,492 INFO :: Binance futures inicialized
+2022-01-04 17:26:14,981 INFO :: This is logged in all cases
+2022-01-04 17:26:14,981 INFO :: This is looged only if we execute the main.py file
+2022-01-04 17:26:14,981 INFO :: Binance futures inicialized
+2022-01-04 17:26:45,743 INFO :: This is logged in all cases
+2022-01-04 17:26:45,743 INFO :: This is looged only if we execute the main.py file
+2022-01-04 17:26:45,743 INFO :: Binance futures inicialized
+2022-01-04 17:26:47,362 ERROR :: Error while making GET request to /dapi/v1/ticker/bookTicker : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:03:31,384 INFO :: This is logged in all cases
+2022-01-04 18:03:31,384 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:03:31,384 INFO :: Binance futures inicialized
+2022-01-04 18:03:33,226 ERROR :: Error while making GET request to /dapi/v1/ticker/bookTicker : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:04:45,224 INFO :: This is logged in all cases
+2022-01-04 18:04:45,224 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:04:45,224 INFO :: Binance futures inicialized
+2022-01-04 18:04:46,948 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1120, 'msg': 'Invalid interval.'} (error code 400)
+2022-01-04 18:05:35,692 INFO :: This is logged in all cases
+2022-01-04 18:05:35,692 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:05:35,692 INFO :: Binance futures inicialized
+2022-01-04 18:05:37,402 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:06:01,207 INFO :: This is logged in all cases
+2022-01-04 18:06:01,207 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:06:01,207 INFO :: Binance futures inicialized
+2022-01-04 18:06:02,931 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:06:18,191 INFO :: This is logged in all cases
+2022-01-04 18:06:18,191 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:06:18,191 INFO :: Binance futures inicialized
+2022-01-04 18:06:18,790 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:06:49,214 INFO :: This is logged in all cases
+2022-01-04 18:06:49,214 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:06:49,214 INFO :: Binance futures inicialized
+2022-01-04 18:06:50,857 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:10:13,886 INFO :: This is logged in all cases
+2022-01-04 18:10:13,887 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:10:13,887 INFO :: Binance futures inicialized
+2022-01-04 18:10:15,559 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:24:59,983 INFO :: This is logged in all cases
+2022-01-04 18:24:59,984 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:24:59,984 INFO :: Binance futures inicialized
+2022-01-04 18:25:01,347 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:25:17,915 INFO :: This is logged in all cases
+2022-01-04 18:25:17,915 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:25:17,915 INFO :: Binance futures inicialized
+2022-01-04 18:25:19,252 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:27:45,006 INFO :: This is logged in all cases
+2022-01-04 18:27:45,006 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:27:45,006 INFO :: Binance futures inicialized
+2022-01-04 18:27:46,432 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:27:58,826 INFO :: This is logged in all cases
+2022-01-04 18:27:58,826 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:27:58,826 INFO :: Binance futures inicialized
+2022-01-04 18:28:00,155 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:28:43,272 INFO :: This is logged in all cases
+2022-01-04 18:28:43,272 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:28:43,272 INFO :: Binance futures inicialized
+2022-01-04 18:29:18,251 INFO :: This is logged in all cases
+2022-01-04 18:29:18,251 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:29:18,251 INFO :: Binance futures inicialized
+2022-01-04 18:32:16,191 INFO :: This is logged in all cases
+2022-01-04 18:32:16,191 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:32:16,191 INFO :: Binance futures inicialized
+2022-01-04 18:32:41,079 INFO :: This is logged in all cases
+2022-01-04 18:32:41,079 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:32:41,079 INFO :: Binance futures inicialized
+2022-01-04 18:32:58,376 INFO :: This is logged in all cases
+2022-01-04 18:32:58,376 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:32:58,376 INFO :: Binance futures inicialized
+2022-01-04 18:33:00,075 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:33:19,488 INFO :: This is logged in all cases
+2022-01-04 18:33:19,488 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:33:19,488 INFO :: Binance futures inicialized
+2022-01-04 18:33:21,071 ERROR :: Error while making GET request to /dapi/v1/klines : {'code': -1121, 'msg': 'Invalid symbol.'} (error code 400)
+2022-01-04 18:33:47,376 INFO :: This is logged in all cases
+2022-01-04 18:33:47,376 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:33:47,376 INFO :: Binance futures inicialized
+2022-01-04 18:45:15,245 INFO :: This is logged in all cases
+2022-01-04 18:45:15,245 INFO :: This is looged only if we execute the main.py file
+2022-01-04 18:45:15,245 INFO :: Binance futures inicialized
+2022-01-06 15:45:35,171 INFO :: This is logged in all cases
+2022-01-06 15:45:35,172 INFO :: This is looged only if we execute the main.py file
+2022-01-06 15:45:35,172 INFO :: Binance futures inicialized
+2022-01-06 15:53:47,046 INFO :: This is logged in all cases
+2022-01-06 15:53:47,046 INFO :: This is looged only if we execute the main.py file
+2022-01-06 15:53:47,046 INFO :: Binance futures inicialized
+2022-01-06 16:06:35,432 INFO :: This is logged in all cases
+2022-01-06 16:06:35,433 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:06:35,433 INFO :: Binance futures inicialized
+2022-01-06 16:13:45,045 INFO :: This is logged in all cases
+2022-01-06 16:13:45,045 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:13:45,045 INFO :: Binance futures inicialized
+2022-01-06 16:14:53,503 INFO :: This is logged in all cases
+2022-01-06 16:14:53,503 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:14:53,504 INFO :: Binance futures inicialized
+2022-01-06 16:16:44,134 INFO :: This is logged in all cases
+2022-01-06 16:16:44,134 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:16:44,134 INFO :: Binance futures inicialized
+2022-01-06 16:17:29,792 INFO :: This is logged in all cases
+2022-01-06 16:17:29,792 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:17:29,793 INFO :: Binance futures inicialized
+2022-01-06 16:17:49,281 INFO :: This is logged in all cases
+2022-01-06 16:17:49,281 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:18:05,793 INFO :: Binance futures inicialized
+2022-01-06 16:19:06,237 INFO :: This is logged in all cases
+2022-01-06 16:19:06,238 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:19:15,989 INFO :: Binance futures inicialized
+2022-01-06 16:22:52,196 INFO :: This is logged in all cases
+2022-01-06 16:22:52,197 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:23:01,931 INFO :: Binance futures inicialized
+2022-01-06 16:27:31,314 INFO :: This is logged in all cases
+2022-01-06 16:27:31,314 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:27:31,314 INFO :: Binance futures inicialized
+2022-01-06 16:28:06,440 INFO :: This is logged in all cases
+2022-01-06 16:28:06,440 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:28:06,440 INFO :: Binance futures inicialized
+2022-01-06 16:28:19,909 INFO :: This is logged in all cases
+2022-01-06 16:28:19,909 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:28:19,910 INFO :: Binance futures inicialized
+2022-01-06 16:28:37,544 INFO :: This is logged in all cases
+2022-01-06 16:28:37,545 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:28:37,545 INFO :: Binance futures inicialized
+2022-01-06 16:28:53,113 INFO :: This is logged in all cases
+2022-01-06 16:28:53,113 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:28:53,113 INFO :: Binance futures inicialized
+2022-01-06 16:30:20,143 INFO :: This is logged in all cases
+2022-01-06 16:30:20,144 INFO :: This is looged only if we execute the main.py file
+2022-01-06 16:30:20,144 INFO :: Binance futures inicialized
+2022-01-08 14:43:22,290 INFO :: This is logged in all cases
+2022-01-08 14:43:22,290 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:44:20,714 INFO :: This is logged in all cases
+2022-01-08 14:44:20,714 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:45:50,874 INFO :: This is logged in all cases
+2022-01-08 14:45:50,874 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:47:26,541 INFO :: This is logged in all cases
+2022-01-08 14:47:26,541 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:47:26,541 INFO :: Binance Websoket conection close
+2022-01-08 14:47:26,541 INFO :: Binance Websoket conection close
+2022-01-08 14:47:26,541 INFO :: Binance Websoket conection close
+2022-01-08 14:47:27,482 ERROR :: error from callback <bound method BinanceFutureClient.on_open of <conectors.binance_futures.BinanceFutureClient object at 0x00000201D2A93D30>>: on_open() takes 1 positional argument but 2 were given
+2022-01-08 14:47:37,657 INFO :: Binance futures inicialized
+2022-01-08 14:47:39,405 INFO :: This is logged in all cases
+2022-01-08 14:47:39,405 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:47:39,405 INFO :: Binance Websoket conection close
+2022-01-08 14:47:39,406 INFO :: Binance Websoket conection close
+2022-01-08 14:47:39,406 INFO :: Binance Websoket conection close
+2022-01-08 14:47:40,230 ERROR :: error from callback <bound method BinanceFutureClient.on_open of <conectors.binance_futures.BinanceFutureClient object at 0x00000215AD7B2320>>: on_open() takes 1 positional argument but 2 were given
+2022-01-08 14:48:07,415 INFO :: This is logged in all cases
+2022-01-08 14:48:07,415 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:48:07,416 INFO :: Binance Websoket conection close
+2022-01-08 14:48:07,416 INFO :: Binance Websoket conection close
+2022-01-08 14:48:13,055 INFO :: This is logged in all cases
+2022-01-08 14:48:13,056 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:48:13,056 INFO :: Binance Websoket conection close
+2022-01-08 14:48:13,056 INFO :: Binance Websoket conection close
+2022-01-08 14:48:33,748 INFO :: This is logged in all cases
+2022-01-08 14:48:33,748 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:48:33,748 INFO :: Binance Websoket conection close
+2022-01-08 14:48:33,748 INFO :: Binance Websoket conection close
+2022-01-08 14:48:33,748 INFO :: Binance Websoket conection close
+2022-01-08 14:48:34,596 ERROR :: error from callback <bound method BinanceFutureClient.on_open of <conectors.binance_futures.BinanceFutureClient object at 0x0000021E025A2320>>: on_open() takes 1 positional argument but 2 were given
+2022-01-08 14:49:42,195 INFO :: This is logged in all cases
+2022-01-08 14:49:42,195 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:49:42,195 INFO :: Binance Websoket conection close
+2022-01-08 14:49:44,350 INFO :: This is logged in all cases
+2022-01-08 14:49:44,350 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:49:44,351 INFO :: Binance Websoket conection close
+2022-01-08 14:50:21,435 INFO :: This is logged in all cases
+2022-01-08 14:50:21,435 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:50:21,435 INFO :: Binance Websoket conection close
+2022-01-08 14:50:21,435 INFO :: Binance Websoket conection close
+2022-01-08 14:50:21,436 INFO :: Binance Websoket conection close
+2022-01-08 14:50:22,260 ERROR :: error from callback <bound method BinanceFutureClient.on_open of <conectors.binance_futures.BinanceFutureClient object at 0x00000260EADA22B0>>: on_open() takes 1 positional argument but 2 were given
+2022-01-08 14:51:20,814 INFO :: This is logged in all cases
+2022-01-08 14:51:20,814 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:51:20,814 INFO :: Binance Websoket conection close
+2022-01-08 14:51:25,556 INFO :: This is logged in all cases
+2022-01-08 14:51:25,556 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:51:25,556 INFO :: Binance Websoket conection close
+2022-01-08 14:51:37,569 INFO :: This is logged in all cases
+2022-01-08 14:51:37,569 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:51:37,569 INFO :: Binance conection
+2022-01-08 14:51:37,569 INFO :: Binance Websoket conection close
+2022-01-08 14:52:41,144 INFO :: This is logged in all cases
+2022-01-08 14:52:41,145 INFO :: This is looged only if we execute the main.py file
+2022-01-08 14:52:41,145 INFO :: Binance conection
+2022-01-08 14:52:41,145 INFO :: Binance Websoket conection close
+2022-01-08 14:52:41,145 INFO :: Binance Websoket conection close
+2022-01-08 14:52:41,145 INFO :: Binance Websoket conection close
+2022-01-08 14:52:52,119 INFO :: Binance futures inicialized
+2022-01-08 15:12:56,297 INFO :: This is logged in all cases
+2022-01-08 15:12:56,297 INFO :: This is looged only if we execute the main.py file
+2022-01-08 15:12:56,297 INFO :: Binance conection
+2022-01-08 15:13:06,158 INFO :: This is logged in all cases
+2022-01-08 15:13:06,159 INFO :: This is looged only if we execute the main.py file
+2022-01-08 15:13:06,159 INFO :: Binance conection
+2022-01-08 15:15:47,375 INFO :: This is logged in all cases
+2022-01-08 15:15:47,375 INFO :: This is looged only if we execute the main.py file
+2022-01-08 15:15:47,375 INFO :: Binance conection
+2022-01-08 15:16:23,414 INFO :: This is logged in all cases
+2022-01-08 15:16:23,414 INFO :: This is looged only if we execute the main.py file
+2022-01-08 15:16:23,415 INFO :: Binance conection
+2022-01-08 15:17:46,119 INFO :: This is logged in all cases
+2022-01-08 15:17:46,119 INFO :: This is looged only if we execute the main.py file
+2022-01-08 15:17:46,119 INFO :: Binance conection
+2022-01-08 15:18:27,771 INFO :: This is logged in all cases
+2022-01-08 15:18:27,771 INFO :: This is looged only if we execute the main.py file
+2022-01-08 15:18:27,772 INFO :: Binance conection
+2022-01-08 18:00:58,521 INFO :: This is logged in all cases
+2022-01-08 18:00:58,521 INFO :: This is looged only if we execute the main.py file
+2022-01-08 18:00:58,521 INFO :: Binance conection
+2022-01-08 18:04:17,321 INFO :: This is logged in all cases
+2022-01-08 18:04:17,322 INFO :: This is looged only if we execute the main.py file
+2022-01-08 18:04:17,322 INFO :: Binance conection
+2022-01-09 12:19:10,078 INFO :: This is logged in all cases
+2022-01-09 12:19:10,078 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:19:10,078 INFO :: Binance conection
+2022-01-09 12:19:59,554 INFO :: This is logged in all cases
+2022-01-09 12:19:59,555 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:19:59,555 INFO :: Binance conection
+2022-01-09 12:20:33,239 INFO :: This is logged in all cases
+2022-01-09 12:20:33,240 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:20:33,240 INFO :: Binance conection
+2022-01-09 12:20:33,240 INFO :: Binance Websoket conection close
+2022-01-09 12:20:33,240 INFO :: Binance Websoket conection error
+2022-01-09 12:21:05,017 INFO :: This is logged in all cases
+2022-01-09 12:21:05,018 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:21:05,018 INFO :: Binance conection
+2022-01-09 12:21:05,018 INFO :: Binance Websoket conection close
+2022-01-09 12:21:05,018 INFO :: Binance Websoket conection error
+2022-01-09 12:21:21,619 INFO :: This is logged in all cases
+2022-01-09 12:21:21,619 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:21:21,619 INFO :: Binance conection
+2022-01-09 12:21:21,619 INFO :: Binance Websoket conection close
+2022-01-09 12:21:21,619 INFO :: Binance Websoket conection error
+2022-01-09 12:21:32,410 INFO :: This is logged in all cases
+2022-01-09 12:21:32,410 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:21:32,410 INFO :: Binance conection
+2022-01-09 12:21:32,410 INFO :: Binance Websoket conection close
+2022-01-09 12:21:32,410 INFO :: Binance Websoket conection error
+2022-01-09 12:24:40,931 INFO :: Binance futures inicialized
+2022-01-09 12:25:38,181 INFO :: This is logged in all cases
+2022-01-09 12:25:38,181 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:26:14,197 INFO :: This is logged in all cases
+2022-01-09 12:26:14,197 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:26:14,197 INFO :: Binance futures inicialized
+2022-01-09 12:44:37,923 INFO :: This is logged in all cases
+2022-01-09 12:44:37,924 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:44:37,924 INFO :: Binance futures inicialized
+2022-01-09 12:45:28,460 INFO :: This is logged in all cases
+2022-01-09 12:45:28,460 INFO :: This is looged only if we execute the main.py file
+2022-01-09 12:45:28,460 INFO :: Binance futures inicialized
+2022-01-09 17:58:05,337 INFO :: This is logged in all cases
+2022-01-09 17:58:05,337 INFO :: This is looged only if we execute the main.py file
+2022-01-09 17:58:05,337 INFO :: Binance futures inicialized
+2022-01-09 18:00:29,563 INFO :: This is logged in all cases
+2022-01-09 18:00:29,564 INFO :: This is looged only if we execute the main.py file
+2022-01-09 18:23:55,345 INFO :: This is logged in all cases
+2022-01-09 18:23:55,346 INFO :: This is looged only if we execute the main.py file
+2022-01-09 18:35:44,920 INFO :: This is logged in all cases
+2022-01-09 18:35:44,921 INFO :: This is looged only if we execute the main.py file
+2022-01-09 18:41:30,273 INFO :: This is logged in all cases
+2022-01-09 18:41:30,273 INFO :: This is looged only if we execute the main.py file
+2022-01-09 18:44:03,333 INFO :: This is logged in all cases
+2022-01-09 18:44:03,333 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:28:05,475 INFO :: This is logged in all cases
+2022-01-10 09:28:05,476 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:30:34,709 INFO :: This is logged in all cases
+2022-01-10 09:30:34,709 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:30:50,020 INFO :: This is logged in all cases
+2022-01-10 09:30:50,020 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:31:54,843 INFO :: This is logged in all cases
+2022-01-10 09:31:54,843 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:32:12,310 INFO :: This is logged in all cases
+2022-01-10 09:32:12,310 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:38:23,687 INFO :: This is logged in all cases
+2022-01-10 09:38:23,688 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:38:31,447 INFO :: This is logged in all cases
+2022-01-10 09:38:31,447 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:40:13,224 INFO :: This is logged in all cases
+2022-01-10 09:40:13,224 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:41:00,751 INFO :: This is logged in all cases
+2022-01-10 09:41:00,752 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:41:34,507 INFO :: This is logged in all cases
+2022-01-10 09:41:34,508 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:41:51,090 INFO :: This is logged in all cases
+2022-01-10 09:41:51,091 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:42:08,766 INFO :: This is logged in all cases
+2022-01-10 09:42:08,767 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:42:23,913 INFO :: This is logged in all cases
+2022-01-10 09:42:23,913 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:42:57,804 INFO :: This is logged in all cases
+2022-01-10 09:42:57,805 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:43:13,536 INFO :: This is logged in all cases
+2022-01-10 09:43:13,536 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:51:40,461 INFO :: This is logged in all cases
+2022-01-10 09:51:40,461 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:52:26,577 INFO :: This is logged in all cases
+2022-01-10 09:52:26,578 INFO :: This is looged only if we execute the main.py file
+2022-01-10 09:53:12,568 INFO :: This is logged in all cases
+2022-01-10 09:53:12,568 INFO :: This is looged only if we execute the main.py file
+2022-01-10 10:32:54,832 INFO :: This is logged in all cases
+2022-01-10 10:32:54,833 INFO :: This is looged only if we execute the main.py file
+2022-01-10 10:34:26,239 INFO :: This is logged in all cases
+2022-01-10 10:34:26,239 INFO :: This is looged only if we execute the main.py file
+2022-01-10 10:34:42,493 INFO :: This is logged in all cases
+2022-01-10 10:34:42,493 INFO :: This is looged only if we execute the main.py file
+2022-01-10 10:53:45,480 INFO :: This is logged in all cases
+2022-01-10 10:53:45,480 INFO :: This is looged only if we execute the main.py file
+2022-01-10 10:55:15,158 INFO :: This is logged in all cases
+2022-01-10 10:55:15,158 INFO :: This is looged only if we execute the main.py file
+2022-01-10 10:56:45,845 INFO :: This is logged in all cases
+2022-01-10 10:56:45,845 INFO :: This is looged only if we execute the main.py file
+2022-01-10 10:58:15,202 INFO :: This is logged in all cases
+2022-01-10 10:58:15,203 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:00:07,402 INFO :: This is logged in all cases
+2022-01-10 11:00:07,403 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:00:19,507 INFO :: This is logged in all cases
+2022-01-10 11:00:19,507 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:01:37,537 INFO :: This is logged in all cases
+2022-01-10 11:01:37,537 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:03:47,499 INFO :: This is logged in all cases
+2022-01-10 11:03:47,500 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:05:49,552 INFO :: This is logged in all cases
+2022-01-10 11:05:49,553 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:07:26,589 INFO :: This is logged in all cases
+2022-01-10 11:07:26,590 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:07:35,144 INFO :: This is logged in all cases
+2022-01-10 11:07:35,144 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:08:11,350 INFO :: This is logged in all cases
+2022-01-10 11:08:11,351 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:08:48,836 INFO :: This is logged in all cases
+2022-01-10 11:08:48,836 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:09:23,189 INFO :: This is logged in all cases
+2022-01-10 11:09:23,189 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:09:30,839 INFO :: This is logged in all cases
+2022-01-10 11:09:30,840 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:10:17,444 INFO :: This is logged in all cases
+2022-01-10 11:10:17,444 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:10:40,365 INFO :: This is logged in all cases
+2022-01-10 11:10:40,366 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:11:21,365 INFO :: This is logged in all cases
+2022-01-10 11:11:21,365 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:12:34,675 INFO :: This is logged in all cases
+2022-01-10 11:12:34,675 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:12:57,566 INFO :: This is logged in all cases
+2022-01-10 11:12:57,566 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:15:06,428 INFO :: This is logged in all cases
+2022-01-10 11:15:06,429 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:15:33,998 INFO :: This is logged in all cases
+2022-01-10 11:15:33,998 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:17:18,214 INFO :: This is logged in all cases
+2022-01-10 11:17:18,214 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:17:37,561 INFO :: This is logged in all cases
+2022-01-10 11:17:37,561 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:17:56,048 INFO :: This is logged in all cases
+2022-01-10 11:17:56,048 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:18:14,416 INFO :: This is logged in all cases
+2022-01-10 11:18:14,416 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:19:13,041 INFO :: This is logged in all cases
+2022-01-10 11:19:13,042 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:21:20,697 INFO :: This is logged in all cases
+2022-01-10 11:21:20,698 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:21:26,641 INFO :: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+2022-01-10 11:21:26,643 INFO :: ascii should target any language(s) of ['Latin Based']
+2022-01-10 11:21:26,643 INFO :: ascii is most likely the one. Stopping the process.
+2022-01-10 11:22:15,944 INFO :: This is logged in all cases
+2022-01-10 11:22:15,944 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:22:35,678 INFO :: This is logged in all cases
+2022-01-10 11:22:35,679 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:22:49,707 INFO :: This is logged in all cases
+2022-01-10 11:22:49,707 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:23:01,977 INFO :: This is logged in all cases
+2022-01-10 11:23:01,977 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:26:10,787 INFO :: This is logged in all cases
+2022-01-10 11:26:10,787 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:31:06,604 INFO :: This is logged in all cases
+2022-01-10 11:31:06,604 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:31:30,762 INFO :: This is logged in all cases
+2022-01-10 11:31:30,762 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:31:40,659 INFO :: This is logged in all cases
+2022-01-10 11:31:40,660 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:31:49,152 INFO :: This is logged in all cases
+2022-01-10 11:31:49,152 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:44:10,695 INFO :: This is logged in all cases
+2022-01-10 11:44:10,695 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:46:32,831 INFO :: This is logged in all cases
+2022-01-10 11:46:32,831 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:46:58,096 INFO :: This is logged in all cases
+2022-01-10 11:46:58,097 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:47:35,224 INFO :: This is logged in all cases
+2022-01-10 11:47:35,224 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:47:51,370 INFO :: This is logged in all cases
+2022-01-10 11:47:51,371 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:49:09,031 INFO :: This is logged in all cases
+2022-01-10 11:49:09,031 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:49:25,314 INFO :: This is logged in all cases
+2022-01-10 11:49:25,314 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:52:55,419 INFO :: This is logged in all cases
+2022-01-10 11:52:55,419 INFO :: This is looged only if we execute the main.py file
+2022-01-10 11:59:47,517 INFO :: This is logged in all cases
+2022-01-10 11:59:47,518 INFO :: This is looged only if we execute the main.py file
+2022-01-10 12:00:20,554 INFO :: This is logged in all cases
+2022-01-10 12:00:20,554 INFO :: This is looged only if we execute the main.py file
+2022-01-10 12:00:31,111 INFO :: This is logged in all cases
+2022-01-10 12:00:31,111 INFO :: This is looged only if we execute the main.py file
+2022-01-10 12:18:15,987 INFO :: This is logged in all cases
+2022-01-10 12:18:15,988 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:06:19,396 INFO :: This is logged in all cases
+2022-01-11 13:06:19,396 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:06:41,218 INFO :: This is logged in all cases
+2022-01-11 13:06:41,219 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:09:32,628 INFO :: This is logged in all cases
+2022-01-11 13:09:32,629 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:11:14,327 INFO :: This is logged in all cases
+2022-01-11 13:11:14,328 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:14:19,287 INFO :: This is logged in all cases
+2022-01-11 13:14:19,287 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:15:02,614 INFO :: This is logged in all cases
+2022-01-11 13:15:02,615 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:15:27,560 INFO :: This is logged in all cases
+2022-01-11 13:15:27,560 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:17:20,045 INFO :: This is logged in all cases
+2022-01-11 13:17:20,045 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:17:52,472 INFO :: This is logged in all cases
+2022-01-11 13:17:52,472 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:19:00,162 INFO :: This is logged in all cases
+2022-01-11 13:19:00,162 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:22:10,182 INFO :: This is logged in all cases
+2022-01-11 13:22:10,183 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:26:47,169 INFO :: This is logged in all cases
+2022-01-11 13:26:47,170 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:28:36,011 INFO :: This is logged in all cases
+2022-01-11 13:28:36,012 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:31:39,617 INFO :: This is logged in all cases
+2022-01-11 13:31:39,617 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:32:19,024 INFO :: This is logged in all cases
+2022-01-11 13:32:19,024 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:32:50,164 INFO :: This is logged in all cases
+2022-01-11 13:32:50,164 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:33:16,044 INFO :: This is logged in all cases
+2022-01-11 13:33:16,045 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:33:31,454 INFO :: This is logged in all cases
+2022-01-11 13:33:31,454 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:39:27,297 INFO :: This is logged in all cases
+2022-01-11 13:39:27,298 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:41:10,117 INFO :: This is logged in all cases
+2022-01-11 13:41:10,118 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:41:47,945 INFO :: This is logged in all cases
+2022-01-11 13:41:47,945 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:42:50,955 INFO :: This is logged in all cases
+2022-01-11 13:42:50,955 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:43:36,248 INFO :: This is logged in all cases
+2022-01-11 13:43:36,248 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:51:15,219 INFO :: This is logged in all cases
+2022-01-11 13:51:15,220 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:51:27,267 INFO :: This is logged in all cases
+2022-01-11 13:51:27,267 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:52:12,670 INFO :: This is logged in all cases
+2022-01-11 13:52:12,670 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:53:17,004 INFO :: This is logged in all cases
+2022-01-11 13:53:17,004 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:55:14,694 INFO :: This is logged in all cases
+2022-01-11 13:55:14,695 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:55:45,550 INFO :: This is logged in all cases
+2022-01-11 13:55:45,551 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:56:10,040 INFO :: This is logged in all cases
+2022-01-11 13:56:10,040 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:56:35,679 INFO :: This is logged in all cases
+2022-01-11 13:56:35,680 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:57:33,271 INFO :: This is logged in all cases
+2022-01-11 13:57:33,272 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:58:03,118 INFO :: This is logged in all cases
+2022-01-11 13:58:03,119 INFO :: This is looged only if we execute the main.py file
+2022-01-11 13:58:18,934 INFO :: This is logged in all cases
+2022-01-11 13:58:18,934 INFO :: This is looged only if we execute the main.py file
+2022-01-11 14:11:31,140 INFO :: This is logged in all cases
+2022-01-11 14:11:31,140 INFO :: This is looged only if we execute the main.py file
+2022-01-11 14:12:14,895 INFO :: This is logged in all cases
+2022-01-11 14:12:14,896 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:00:42,015 INFO :: This is logged in all cases
+2022-01-12 17:00:42,016 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:01:12,291 INFO :: This is logged in all cases
+2022-01-12 17:01:12,291 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:01:24,378 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:01:42,184 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:02:08,702 INFO :: This is logged in all cases
+2022-01-12 17:02:08,703 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:02:09,115 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:02:09,119 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:02:39,506 INFO :: This is logged in all cases
+2022-01-12 17:02:39,506 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:02:42,306 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:02:48,215 INFO :: This is logged in all cases
+2022-01-12 17:02:48,215 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:02:48,215 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:16:34,998 INFO :: This is logged in all cases
+2022-01-12 17:16:34,998 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:16:34,998 INFO :: Binance futures inicialized
+2022-01-12 17:16:35,421 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:16:35,425 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:16:35,432 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:16:35,438 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:17:29,237 INFO :: This is logged in all cases
+2022-01-12 17:17:29,237 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:17:29,237 INFO :: Binance futures inicialized
+2022-01-12 17:17:29,668 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:17:29,671 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:17:29,678 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:17:29,683 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:18:46,896 INFO :: This is logged in all cases
+2022-01-12 17:18:46,896 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:18:46,896 INFO :: Binance futures inicialized
+2022-01-12 17:18:47,291 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:18:47,294 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:18:47,301 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:18:47,307 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:19:56,041 INFO :: This is logged in all cases
+2022-01-12 17:19:56,041 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:19:56,041 INFO :: Binance futures inicialized
+2022-01-12 17:19:56,465 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:19:56,470 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:20:37,888 INFO :: This is logged in all cases
+2022-01-12 17:20:37,889 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:20:37,889 INFO :: Binance futures inicialized
+2022-01-12 17:20:38,321 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:35:18,910 INFO :: This is logged in all cases
+2022-01-12 17:35:18,911 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:35:18,911 INFO :: Binance futures inicialized
+2022-01-12 17:35:19,304 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldict845128'
+2022-01-12 17:35:54,603 INFO :: This is logged in all cases
+2022-01-12 17:35:54,603 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:35:54,603 INFO :: Binance futures inicialized
+2022-01-12 17:35:55,048 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldict14b1be'
+2022-01-12 17:35:55,053 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldict9a9cf0'
+2022-01-12 17:36:24,777 INFO :: This is logged in all cases
+2022-01-12 17:36:24,778 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:36:24,778 INFO :: Binance futures inicialized
+2022-01-12 17:36:36,640 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldictff3eef'
+2022-01-12 17:36:37,842 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldict550abf'
+2022-01-12 17:37:05,964 INFO :: This is logged in all cases
+2022-01-12 17:37:05,965 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:37:05,965 INFO :: Binance futures inicialized
+2022-01-12 17:37:08,821 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldictd257a6'
+2022-01-12 17:37:08,833 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldict8275e3'
+2022-01-12 17:37:08,841 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:37:16,727 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:37:56,504 INFO :: This is logged in all cases
+2022-01-12 17:37:56,505 INFO :: This is looged only if we execute the main.py file
+2022-01-12 17:37:56,505 INFO :: Binance futures inicialized
+2022-01-12 17:37:57,069 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-12 17:37:57,072 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-21 11:18:28,341 INFO :: This is logged in all cases
+2022-01-21 11:18:28,342 INFO :: This is looged only if we execute the main.py file
+2022-01-21 11:18:28,342 INFO :: Binance futures inicialized
+2022-01-21 11:18:28,845 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-21 11:18:28,857 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-21 11:20:04,831 INFO :: This is logged in all cases
+2022-01-21 11:20:04,831 INFO :: This is looged only if we execute the main.py file
+2022-01-21 11:20:04,831 INFO :: Binance futures inicialized
+2022-01-21 11:20:05,498 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-21 11:20:05,501 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-21 11:21:44,240 INFO :: This is logged in all cases
+2022-01-21 11:21:44,241 INFO :: This is looged only if we execute the main.py file
+2022-01-21 11:21:44,241 INFO :: Binance futures inicialized
+2022-01-21 11:21:44,621 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-21 11:21:44,624 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:26:00,818 INFO :: This is logged in all cases
+2022-01-22 20:26:00,818 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:26:00,818 INFO :: Binance futures inicialized
+2022-01-22 20:26:01,539 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:26:01,552 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:28:54,443 INFO :: This is logged in all cases
+2022-01-22 20:28:54,443 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:28:54,443 INFO :: Binance futures inicialized
+2022-01-22 20:28:55,110 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:28:55,113 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:36:28,701 INFO :: This is logged in all cases
+2022-01-22 20:36:28,701 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:36:28,701 INFO :: Binance futures inicialized
+2022-01-22 20:36:29,100 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:36:29,103 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:37:33,171 INFO :: This is logged in all cases
+2022-01-22 20:37:33,172 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:37:33,172 INFO :: Binance futures inicialized
+2022-01-22 20:37:33,565 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:37:33,568 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:39:41,665 INFO :: This is logged in all cases
+2022-01-22 20:39:41,665 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:39:41,665 INFO :: Binance futures inicialized
+2022-01-22 20:39:42,048 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:39:42,064 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:47:52,769 INFO :: This is logged in all cases
+2022-01-22 20:47:52,770 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:47:52,770 INFO :: Binance futures inicialized
+2022-01-22 20:47:53,161 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:47:53,163 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:48:47,856 INFO :: This is logged in all cases
+2022-01-22 20:48:47,857 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:48:47,857 INFO :: Binance futures inicialized
+2022-01-22 20:48:48,276 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:48:48,279 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:49:23,894 INFO :: This is logged in all cases
+2022-01-22 20:49:23,894 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:49:23,894 INFO :: Binance futures inicialized
+2022-01-22 20:49:52,398 INFO :: This is logged in all cases
+2022-01-22 20:49:52,399 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:49:52,399 INFO :: Binance futures inicialized
+2022-01-22 20:51:40,473 INFO :: This is logged in all cases
+2022-01-22 20:51:40,473 INFO :: This is looged only if we execute the main.py file
+2022-01-22 20:51:40,474 INFO :: Binance futures inicialized
+2022-01-22 20:51:40,880 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-22 20:51:40,883 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-24 10:26:26,840 INFO :: This is logged in all cases
+2022-01-24 10:26:26,841 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:26:26,841 INFO :: Binance futures inicialized
+2022-01-24 10:31:39,940 INFO :: This is logged in all cases
+2022-01-24 10:31:39,941 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:31:39,941 INFO :: Binance futures inicialized
+2022-01-24 10:32:01,386 INFO :: This is logged in all cases
+2022-01-24 10:32:01,386 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:32:01,386 INFO :: Binance futures inicialized
+2022-01-24 10:34:37,845 INFO :: This is logged in all cases
+2022-01-24 10:34:37,845 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:34:37,845 INFO :: Binance futures inicialized
+2022-01-24 10:35:42,178 INFO :: This is logged in all cases
+2022-01-24 10:35:42,178 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:35:42,179 INFO :: Binance futures inicialized
+2022-01-24 10:35:52,299 INFO :: This is logged in all cases
+2022-01-24 10:35:52,300 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:35:52,300 INFO :: Binance futures inicialized
+2022-01-24 10:37:23,689 INFO :: This is logged in all cases
+2022-01-24 10:37:23,690 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:37:23,690 INFO :: Binance futures inicialized
+2022-01-24 10:37:45,702 INFO :: This is logged in all cases
+2022-01-24 10:37:45,702 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:37:45,703 INFO :: Binance futures inicialized
+2022-01-24 10:37:46,085 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-24 10:37:46,099 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-24 10:37:52,559 INFO :: This is logged in all cases
+2022-01-24 10:37:52,560 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:37:52,560 INFO :: Binance futures inicialized
+2022-01-24 10:43:37,772 INFO :: This is logged in all cases
+2022-01-24 10:43:37,772 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:43:37,772 INFO :: Binance futures inicialized
+2022-01-24 10:43:38,160 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-24 10:43:38,163 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-24 10:43:43,930 INFO :: This is logged in all cases
+2022-01-24 10:43:43,930 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:43:43,930 INFO :: Binance futures inicialized
+2022-01-24 10:45:13,951 INFO :: This is logged in all cases
+2022-01-24 10:45:13,952 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:45:13,952 INFO :: Binance futures inicialized
+2022-01-24 10:45:52,070 INFO :: This is logged in all cases
+2022-01-24 10:45:52,070 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:45:52,070 INFO :: Binance futures inicialized
+2022-01-24 10:46:20,790 INFO :: This is logged in all cases
+2022-01-24 10:46:20,790 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:46:20,790 INFO :: Binance futures inicialized
+2022-01-24 10:46:21,164 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-24 10:46:21,167 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-24 10:46:27,249 INFO :: This is logged in all cases
+2022-01-24 10:46:27,250 INFO :: This is looged only if we execute the main.py file
+2022-01-24 10:46:27,250 INFO :: Binance futures inicialized
+2022-01-24 11:19:19,746 INFO :: This is logged in all cases
+2022-01-24 11:19:19,747 INFO :: This is looged only if we execute the main.py file
+2022-01-24 11:19:19,747 INFO :: Binance futures inicialized
+2022-01-24 11:24:20,374 INFO :: This is logged in all cases
+2022-01-24 11:24:20,375 INFO :: This is looged only if we execute the main.py file
+2022-01-24 11:24:20,375 INFO :: Binance futures inicialized
+2022-01-24 11:25:02,127 INFO :: This is logged in all cases
+2022-01-24 11:25:02,128 INFO :: This is looged only if we execute the main.py file
+2022-01-24 11:25:02,128 INFO :: Binance futures inicialized
+2022-01-24 11:25:02,628 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-24 11:25:02,630 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-24 11:34:35,137 INFO :: This is logged in all cases
+2022-01-24 11:34:35,138 INFO :: This is looged only if we execute the main.py file
+2022-01-24 11:34:35,138 INFO :: Binance futures inicialized
+2022-01-24 11:34:35,525 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldicta347f8'
+2022-01-24 11:34:53,550 INFO :: This is logged in all cases
+2022-01-24 11:34:53,550 INFO :: This is looged only if we execute the main.py file
+2022-01-24 11:34:53,551 INFO :: Binance futures inicialized
+2022-01-24 11:35:49,790 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldictf8eb6b'
+2022-01-24 11:36:11,759 INFO :: This is logged in all cases
+2022-01-24 11:36:11,759 INFO :: This is looged only if we execute the main.py file
+2022-01-24 11:36:11,759 INFO :: Binance futures inicialized
+2022-01-24 11:36:12,135 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldict89981d'
+2022-01-24 12:47:58,716 INFO :: This is logged in all cases
+2022-01-24 12:47:58,717 INFO :: This is looged only if we execute the main.py file
+2022-01-24 12:47:58,717 INFO :: Binance futures inicialized
+2022-01-24 12:54:07,950 INFO :: This is logged in all cases
+2022-01-24 12:54:07,951 INFO :: This is looged only if we execute the main.py file
+2022-01-24 12:54:07,951 INFO :: Binance futures inicialized
+2022-01-24 12:55:49,022 INFO :: This is logged in all cases
+2022-01-24 12:55:49,023 INFO :: This is looged only if we execute the main.py file
+2022-01-24 12:55:49,023 INFO :: Binance futures inicialized
+2022-01-24 12:56:38,125 INFO :: This is logged in all cases
+2022-01-24 12:56:38,126 INFO :: This is looged only if we execute the main.py file
+2022-01-24 12:56:38,126 INFO :: Binance futures inicialized
+2022-01-24 12:57:47,537 INFO :: This is logged in all cases
+2022-01-24 12:57:47,537 INFO :: This is looged only if we execute the main.py file
+2022-01-24 12:57:47,537 INFO :: Binance futures inicialized
+2022-01-24 12:58:21,343 INFO :: This is logged in all cases
+2022-01-24 12:58:21,344 INFO :: This is looged only if we execute the main.py file
+2022-01-24 12:58:21,344 INFO :: Binance futures inicialized
+2022-01-24 12:59:04,923 INFO :: This is logged in all cases
+2022-01-24 12:59:04,923 INFO :: This is looged only if we execute the main.py file
+2022-01-24 12:59:04,923 INFO :: Binance futures inicialized
+2022-01-24 13:00:48,871 INFO :: This is logged in all cases
+2022-01-24 13:00:48,872 INFO :: This is looged only if we execute the main.py file
+2022-01-24 13:00:48,872 INFO :: Binance futures inicialized
+2022-01-24 13:10:44,767 INFO :: This is logged in all cases
+2022-01-24 13:10:44,767 INFO :: This is looged only if we execute the main.py file
+2022-01-24 13:10:44,767 INFO :: Binance futures inicialized
+2022-01-24 13:10:45,174 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldicta211d9'
+2022-01-25 10:38:07,255 INFO :: This is logged in all cases
+2022-01-25 10:38:07,256 INFO :: This is looged only if we execute the main.py file
+2022-01-25 10:38:07,256 INFO :: Binance futures inicialized
+2022-01-25 10:50:40,085 INFO :: This is logged in all cases
+2022-01-25 10:50:40,086 INFO :: This is looged only if we execute the main.py file
+2022-01-25 10:50:40,086 INFO :: Binance futures inicialized
+2022-01-25 10:52:21,797 INFO :: This is logged in all cases
+2022-01-25 10:52:21,798 INFO :: This is looged only if we execute the main.py file
+2022-01-25 10:52:21,798 INFO :: Binance futures inicialized
+2022-01-25 10:54:34,333 INFO :: This is logged in all cases
+2022-01-25 10:54:34,333 INFO :: This is looged only if we execute the main.py file
+2022-01-25 10:54:34,334 INFO :: Binance futures inicialized
+2022-01-25 10:54:52,609 INFO :: This is logged in all cases
+2022-01-25 10:54:52,609 INFO :: This is looged only if we execute the main.py file
+2022-01-25 10:54:52,609 INFO :: Binance futures inicialized
+2022-01-25 10:55:23,628 INFO :: This is logged in all cases
+2022-01-25 10:55:23,629 INFO :: This is looged only if we execute the main.py file
+2022-01-25 10:55:23,629 INFO :: Binance futures inicialized
+2022-01-25 11:23:15,664 INFO :: This is logged in all cases
+2022-01-25 11:23:15,665 INFO :: This is looged only if we execute the main.py file
+2022-01-25 11:23:15,665 INFO :: Binance futures inicialized
+2022-01-25 11:23:54,135 INFO :: This is logged in all cases
+2022-01-25 11:23:54,136 INFO :: This is looged only if we execute the main.py file
+2022-01-25 11:23:54,136 INFO :: Binance futures inicialized
+2022-01-25 11:24:19,777 INFO :: This is logged in all cases
+2022-01-25 11:24:19,778 INFO :: This is looged only if we execute the main.py file
+2022-01-25 11:24:19,778 INFO :: Binance futures inicialized
+2022-01-25 11:25:19,961 INFO :: This is logged in all cases
+2022-01-25 11:25:19,961 INFO :: This is looged only if we execute the main.py file
+2022-01-25 11:25:19,961 INFO :: Binance futures inicialized
+2022-01-25 11:46:47,205 INFO :: This is logged in all cases
+2022-01-25 11:46:47,206 INFO :: This is looged only if we execute the main.py file
+2022-01-25 11:46:47,206 INFO :: Binance futures inicialized
+2022-01-25 11:46:53,999 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldict4ab1cd'
+2022-01-25 11:58:24,261 INFO :: This is logged in all cases
+2022-01-25 11:58:24,262 INFO :: This is looged only if we execute the main.py file
+2022-01-25 11:58:24,262 INFO :: Binance futures inicialized
+2022-01-25 11:58:49,880 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldictedcb39'
+2022-01-25 11:59:23,786 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-25 11:59:54,431 INFO :: This is logged in all cases
+2022-01-25 11:59:54,432 INFO :: This is looged only if we execute the main.py file
+2022-01-25 11:59:54,432 INFO :: Binance futures inicialized
+2022-01-25 11:59:54,847 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldict1ec215'
+2022-01-25 11:59:54,856 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-25 12:00:27,934 INFO :: This is logged in all cases
+2022-01-25 12:00:27,934 INFO :: This is looged only if we execute the main.py file
+2022-01-25 12:00:27,934 INFO :: Binance futures inicialized
+2022-01-25 12:00:38,690 INFO :: opening Sqlite table 'unnamed' in 'C:\\Users\\ema71\\AppData\\Local\\Temp\\sqldict844c47'
+2022-01-25 12:01:24,771 INFO :: opening Sqlite table 'unnamed' in 'cache.sqlite3'
+2022-01-25 13:26:04,743 INFO :: This is logged in all cases
+2022-01-25 13:26:04,744 INFO :: This is looged only if we execute the main.py file
+2022-01-25 13:26:04,744 INFO :: Binance futures inicialized
+2022-01-25 13:27:17,840 INFO :: This is logged in all cases
+2022-01-25 13:27:17,841 INFO :: This is looged only if we execute the main.py file
+2022-01-25 13:27:17,841 INFO :: Binance futures inicialized
+2022-01-26 10:51:43,119 INFO :: This is logged in all cases
+2022-01-26 10:51:43,120 INFO :: This is looged only if we execute the main.py file
+2022-01-26 10:51:43,120 INFO :: Binance futures inicialized
+2022-01-26 10:52:09,682 INFO :: This is logged in all cases
+2022-01-26 10:52:09,682 INFO :: This is looged only if we execute the main.py file
+2022-01-26 10:52:09,683 INFO :: Binance futures inicialized
+2022-01-26 10:53:03,101 INFO :: This is logged in all cases
+2022-01-26 10:53:03,102 INFO :: This is looged only if we execute the main.py file
+2022-01-26 10:53:03,102 INFO :: Binance futures inicialized
+2022-01-29 13:55:41,315 INFO :: This is logged in all cases
+2022-01-29 13:55:41,316 INFO :: This is looged only if we execute the main.py file
+2022-01-29 13:55:41,316 INFO :: Binance futures inicialized
+2022-01-29 13:56:18,944 INFO :: This is logged in all cases
+2022-01-29 13:56:18,944 INFO :: This is looged only if we execute the main.py file
+2022-01-29 13:56:18,944 INFO :: Binance futures inicialized
+2022-01-29 14:02:50,435 INFO :: This is logged in all cases
+2022-01-29 14:02:50,436 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:02:50,436 INFO :: Binance futures inicialized
+2022-01-29 14:03:59,929 INFO :: This is logged in all cases
+2022-01-29 14:03:59,930 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:03:59,930 INFO :: Binance futures inicialized
+2022-01-29 14:04:31,390 INFO :: This is logged in all cases
+2022-01-29 14:04:31,391 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:04:31,391 INFO :: Binance futures inicialized
+2022-01-29 14:04:54,568 INFO :: This is logged in all cases
+2022-01-29 14:04:54,568 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:04:54,568 INFO :: Binance futures inicialized
+2022-01-29 14:06:02,885 INFO :: This is logged in all cases
+2022-01-29 14:06:02,885 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:06:02,885 INFO :: Binance futures inicialized
+2022-01-29 14:13:09,275 INFO :: This is logged in all cases
+2022-01-29 14:13:09,275 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:13:09,276 INFO :: Binance futures inicialized
+2022-01-29 14:13:47,716 INFO :: This is logged in all cases
+2022-01-29 14:13:47,716 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:13:47,716 INFO :: Binance futures inicialized
+2022-01-29 14:14:39,691 INFO :: This is logged in all cases
+2022-01-29 14:14:39,692 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:14:39,692 INFO :: Binance futures inicialized
+2022-01-29 14:15:00,823 INFO :: This is logged in all cases
+2022-01-29 14:15:00,823 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:15:00,824 INFO :: Binance futures inicialized
+2022-01-29 14:18:08,319 INFO :: This is logged in all cases
+2022-01-29 14:18:08,320 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:18:08,320 INFO :: Binance futures inicialized
+2022-01-29 14:19:05,439 INFO :: This is logged in all cases
+2022-01-29 14:19:05,440 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:19:05,440 INFO :: Binance futures inicialized
+2022-01-29 14:19:43,602 INFO :: This is logged in all cases
+2022-01-29 14:19:43,602 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:19:43,602 INFO :: Binance futures inicialized
+2022-01-29 14:20:07,583 INFO :: This is logged in all cases
+2022-01-29 14:20:07,584 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:20:07,584 INFO :: Binance futures inicialized
+2022-01-29 14:20:24,502 INFO :: This is logged in all cases
+2022-01-29 14:20:24,503 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:20:24,503 INFO :: Binance futures inicialized
+2022-01-29 14:20:53,096 INFO :: This is logged in all cases
+2022-01-29 14:20:53,096 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:20:53,097 INFO :: Binance futures inicialized
+2022-01-29 14:21:32,860 INFO :: This is logged in all cases
+2022-01-29 14:21:32,860 INFO :: This is looged only if we execute the main.py file
+2022-01-29 14:21:32,860 INFO :: Binance futures inicialized
+2022-01-29 15:57:54,675 INFO :: This is logged in all cases
+2022-01-29 15:57:54,676 INFO :: This is looged only if we execute the main.py file
+2022-01-29 15:57:54,676 INFO :: Binance futures inicialized
+2022-01-29 15:59:27,106 INFO :: This is logged in all cases
+2022-01-29 15:59:27,107 INFO :: This is looged only if we execute the main.py file
+2022-01-29 15:59:27,107 INFO :: Binance futures inicialized
+2022-01-29 15:59:39,340 INFO :: This is logged in all cases
+2022-01-29 15:59:39,340 INFO :: This is looged only if we execute the main.py file
+2022-01-29 15:59:39,340 INFO :: Binance futures inicialized
+2022-01-29 15:59:55,835 INFO :: This is logged in all cases
+2022-01-29 15:59:55,836 INFO :: This is looged only if we execute the main.py file
+2022-01-29 15:59:55,836 INFO :: Binance futures inicialized
+2022-01-29 16:02:19,888 INFO :: This is logged in all cases
+2022-01-29 16:02:19,888 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:02:19,889 INFO :: Binance futures inicialized
+2022-01-29 16:02:42,648 INFO :: This is logged in all cases
+2022-01-29 16:02:42,650 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:02:42,650 INFO :: Binance futures inicialized
+2022-01-29 16:03:59,710 INFO :: This is logged in all cases
+2022-01-29 16:03:59,711 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:03:59,711 INFO :: Binance futures inicialized
+2022-01-29 16:04:37,838 INFO :: This is logged in all cases
+2022-01-29 16:04:37,839 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:04:37,839 INFO :: Binance futures inicialized
+2022-01-29 16:07:22,117 INFO :: This is logged in all cases
+2022-01-29 16:07:22,117 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:07:22,117 INFO :: Binance futures inicialized
+2022-01-29 16:08:06,165 INFO :: This is logged in all cases
+2022-01-29 16:08:06,166 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:08:06,166 INFO :: Binance futures inicialized
+2022-01-29 16:08:27,967 INFO :: This is logged in all cases
+2022-01-29 16:08:27,967 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:08:27,967 INFO :: Binance futures inicialized
+2022-01-29 16:09:15,996 INFO :: This is logged in all cases
+2022-01-29 16:09:15,997 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:09:15,997 INFO :: Binance futures inicialized
+2022-01-29 16:09:23,453 INFO :: This is logged in all cases
+2022-01-29 16:09:23,454 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:09:23,454 INFO :: Binance futures inicialized
+2022-01-29 16:10:33,767 INFO :: This is logged in all cases
+2022-01-29 16:10:33,768 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:10:33,768 INFO :: Binance futures inicialized
+2022-01-29 16:11:22,622 INFO :: This is logged in all cases
+2022-01-29 16:11:22,622 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:11:22,622 INFO :: Binance futures inicialized
+2022-01-29 16:11:37,936 INFO :: This is logged in all cases
+2022-01-29 16:11:37,936 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:11:37,936 INFO :: Binance futures inicialized
+2022-01-29 16:12:25,932 INFO :: This is logged in all cases
+2022-01-29 16:12:25,933 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:12:25,933 INFO :: Binance futures inicialized
+2022-01-29 16:14:05,162 INFO :: This is logged in all cases
+2022-01-29 16:14:05,163 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:14:05,163 INFO :: Binance futures inicialized
+2022-01-29 16:14:39,874 INFO :: This is logged in all cases
+2022-01-29 16:14:39,875 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:14:39,875 INFO :: Binance futures inicialized
+2022-01-29 16:17:05,354 INFO :: This is logged in all cases
+2022-01-29 16:17:05,355 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:17:05,355 INFO :: Binance futures inicialized
+2022-01-29 16:17:16,202 INFO :: This is logged in all cases
+2022-01-29 16:17:16,202 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:17:16,202 INFO :: Binance futures inicialized
+2022-01-29 16:17:45,517 INFO :: This is logged in all cases
+2022-01-29 16:17:45,518 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:17:45,518 INFO :: Binance futures inicialized
+2022-01-29 16:17:59,607 INFO :: This is logged in all cases
+2022-01-29 16:17:59,607 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:17:59,607 INFO :: Binance futures inicialized
+2022-01-29 16:21:09,219 INFO :: This is logged in all cases
+2022-01-29 16:21:09,220 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:21:09,220 INFO :: Binance futures inicialized
+2022-01-29 16:22:52,590 INFO :: This is logged in all cases
+2022-01-29 16:22:52,590 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:22:52,591 INFO :: Binance futures inicialized
+2022-01-29 16:23:24,195 INFO :: This is logged in all cases
+2022-01-29 16:23:24,196 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:23:24,196 INFO :: Binance futures inicialized
+2022-01-29 16:26:32,497 INFO :: This is logged in all cases
+2022-01-29 16:26:32,498 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:26:32,498 INFO :: Binance futures inicialized
+2022-01-29 16:28:20,061 INFO :: This is logged in all cases
+2022-01-29 16:28:20,061 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:28:20,062 INFO :: Binance futures inicialized
+2022-01-29 16:28:40,532 INFO :: This is logged in all cases
+2022-01-29 16:28:40,533 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:28:40,533 INFO :: Binance futures inicialized
+2022-01-29 16:31:29,423 INFO :: This is logged in all cases
+2022-01-29 16:31:29,424 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:31:29,424 INFO :: Binance futures inicialized
+2022-01-29 16:32:20,817 INFO :: This is logged in all cases
+2022-01-29 16:32:20,818 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:32:20,818 INFO :: Binance futures inicialized
+2022-01-29 16:32:50,351 INFO :: This is logged in all cases
+2022-01-29 16:32:50,352 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:32:50,352 INFO :: Binance futures inicialized
+2022-01-29 16:34:55,894 INFO :: This is logged in all cases
+2022-01-29 16:34:55,895 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:34:55,895 INFO :: Binance futures inicialized
+2022-01-29 16:35:26,853 INFO :: This is logged in all cases
+2022-01-29 16:35:26,853 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:35:26,853 INFO :: Binance futures inicialized
+2022-01-29 16:35:43,041 INFO :: This is logged in all cases
+2022-01-29 16:35:43,041 INFO :: This is looged only if we execute the main.py file
+2022-01-29 16:35:43,042 INFO :: Binance futures inicialized
+2022-01-31 12:10:39,963 INFO :: This is logged in all cases
+2022-01-31 12:10:39,964 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:10:39,964 INFO :: Binance futures inicialized
+2022-01-31 12:11:17,074 INFO :: This is logged in all cases
+2022-01-31 12:11:17,075 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:11:17,075 INFO :: Binance futures inicialized
+2022-01-31 12:11:41,763 INFO :: This is logged in all cases
+2022-01-31 12:11:41,764 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:11:41,764 INFO :: Binance futures inicialized
+2022-01-31 12:13:22,923 INFO :: This is logged in all cases
+2022-01-31 12:13:22,924 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:13:22,924 INFO :: Binance futures inicialized
+2022-01-31 12:17:50,182 INFO :: This is logged in all cases
+2022-01-31 12:17:50,183 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:17:50,183 INFO :: Binance futures inicialized
+2022-01-31 12:18:46,898 INFO :: This is logged in all cases
+2022-01-31 12:18:46,899 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:18:46,899 INFO :: Binance futures inicialized
+2022-01-31 12:20:31,122 INFO :: This is logged in all cases
+2022-01-31 12:20:31,123 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:20:31,123 INFO :: Binance futures inicialized
+2022-01-31 12:21:12,175 INFO :: This is logged in all cases
+2022-01-31 12:21:12,176 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:21:12,176 INFO :: Binance futures inicialized
+2022-01-31 12:21:41,046 INFO :: This is logged in all cases
+2022-01-31 12:21:41,047 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:21:41,047 INFO :: Binance futures inicialized
+2022-01-31 12:22:07,117 INFO :: This is logged in all cases
+2022-01-31 12:22:07,117 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:22:07,118 INFO :: Binance futures inicialized
+2022-01-31 12:23:44,076 INFO :: This is logged in all cases
+2022-01-31 12:23:44,076 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:23:44,076 INFO :: Binance futures inicialized
+2022-01-31 12:25:24,921 INFO :: This is logged in all cases
+2022-01-31 12:25:24,922 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:25:24,922 INFO :: Binance futures inicialized
+2022-01-31 12:26:52,635 INFO :: This is logged in all cases
+2022-01-31 12:26:52,635 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:26:52,636 INFO :: Binance futures inicialized
+2022-01-31 12:27:31,888 INFO :: This is logged in all cases
+2022-01-31 12:27:31,888 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:27:31,888 INFO :: Binance futures inicialized
+2022-01-31 12:27:51,792 INFO :: This is logged in all cases
+2022-01-31 12:27:51,792 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:27:51,792 INFO :: Binance futures inicialized
+2022-01-31 12:29:28,804 INFO :: This is logged in all cases
+2022-01-31 12:29:28,805 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:29:28,805 INFO :: Binance futures inicialized
+2022-01-31 12:39:48,831 INFO :: This is logged in all cases
+2022-01-31 12:39:48,832 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:39:48,832 INFO :: Binance futures inicialized
+2022-01-31 12:40:09,413 INFO :: This is logged in all cases
+2022-01-31 12:40:09,414 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:40:09,414 INFO :: Binance futures inicialized
+2022-01-31 12:43:39,571 INFO :: This is logged in all cases
+2022-01-31 12:43:39,572 INFO :: This is looged only if we execute the main.py file
+2022-01-31 12:43:39,572 INFO :: Binance futures inicialized
+2022-01-31 13:22:27,258 INFO :: This is logged in all cases
+2022-01-31 13:22:27,259 INFO :: This is looged only if we execute the main.py file
+2022-01-31 13:22:27,259 INFO :: Binance futures inicialized
+2022-01-31 13:23:28,358 INFO :: This is logged in all cases
+2022-01-31 13:23:28,359 INFO :: This is looged only if we execute the main.py file
+2022-01-31 13:23:28,359 INFO :: Binance futures inicialized
+2022-01-31 14:06:18,930 INFO :: This is logged in all cases
+2022-01-31 14:06:18,930 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:06:18,930 INFO :: Binance futures inicialized
+2022-01-31 14:06:50,057 INFO :: This is logged in all cases
+2022-01-31 14:06:50,058 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:06:50,058 INFO :: Binance futures inicialized
+2022-01-31 14:11:05,694 INFO :: This is logged in all cases
+2022-01-31 14:11:05,695 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:11:05,695 INFO :: Binance futures inicialized
+2022-01-31 14:15:43,488 INFO :: This is logged in all cases
+2022-01-31 14:15:43,489 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:15:43,489 INFO :: Binance futures inicialized
+2022-01-31 14:16:31,831 INFO :: This is logged in all cases
+2022-01-31 14:16:31,832 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:16:31,832 INFO :: Binance futures inicialized
+2022-01-31 14:16:57,839 INFO :: This is logged in all cases
+2022-01-31 14:16:57,840 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:16:57,840 INFO :: Binance futures inicialized
+2022-01-31 14:17:27,135 INFO :: This is logged in all cases
+2022-01-31 14:17:27,135 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:17:27,135 INFO :: Binance futures inicialized
+2022-01-31 14:17:39,510 INFO :: This is logged in all cases
+2022-01-31 14:17:39,510 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:17:39,510 INFO :: Binance futures inicialized
+2022-01-31 14:18:04,309 INFO :: This is logged in all cases
+2022-01-31 14:18:04,310 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:18:04,310 INFO :: Binance futures inicialized
+2022-01-31 14:19:30,573 INFO :: This is logged in all cases
+2022-01-31 14:19:30,574 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:19:30,574 INFO :: Binance futures inicialized
+2022-01-31 14:21:12,767 INFO :: This is logged in all cases
+2022-01-31 14:21:12,768 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:21:12,768 INFO :: Binance futures inicialized
+2022-01-31 14:21:26,372 INFO :: This is logged in all cases
+2022-01-31 14:21:26,373 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:21:26,373 INFO :: Binance futures inicialized
+2022-01-31 14:21:59,818 INFO :: This is logged in all cases
+2022-01-31 14:21:59,819 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:21:59,819 INFO :: Binance futures inicialized
+2022-01-31 14:22:46,282 INFO :: This is logged in all cases
+2022-01-31 14:22:46,283 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:22:46,283 INFO :: Binance futures inicialized
+2022-01-31 14:41:19,190 INFO :: This is logged in all cases
+2022-01-31 14:41:19,191 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:41:19,191 INFO :: Binance futures inicialized
+2022-01-31 14:41:45,232 INFO :: This is logged in all cases
+2022-01-31 14:41:45,233 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:41:45,233 INFO :: Binance futures inicialized
+2022-01-31 14:42:18,022 INFO :: This is logged in all cases
+2022-01-31 14:42:18,022 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:42:18,022 INFO :: Binance futures inicialized
+2022-01-31 14:42:54,664 INFO :: This is logged in all cases
+2022-01-31 14:42:54,665 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:42:54,665 INFO :: Binance futures inicialized
+2022-01-31 14:44:07,148 INFO :: This is logged in all cases
+2022-01-31 14:44:07,149 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:44:07,149 INFO :: Binance futures inicialized
+2022-01-31 14:45:10,044 INFO :: This is logged in all cases
+2022-01-31 14:45:10,045 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:45:10,045 INFO :: Binance futures inicialized
+2022-01-31 14:46:06,563 INFO :: This is logged in all cases
+2022-01-31 14:46:06,564 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:46:06,564 INFO :: Binance futures inicialized
+2022-01-31 14:56:12,101 INFO :: This is logged in all cases
+2022-01-31 14:56:12,102 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:56:12,102 INFO :: Binance futures inicialized
+2022-01-31 14:56:42,184 INFO :: This is logged in all cases
+2022-01-31 14:56:42,184 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:56:42,185 INFO :: Binance futures inicialized
+2022-01-31 14:57:07,490 INFO :: This is logged in all cases
+2022-01-31 14:57:07,491 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:57:07,491 INFO :: Binance futures inicialized
+2022-01-31 14:57:28,212 INFO :: This is logged in all cases
+2022-01-31 14:57:28,212 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:57:28,212 INFO :: Binance futures inicialized
+2022-01-31 14:59:08,532 INFO :: This is logged in all cases
+2022-01-31 14:59:08,533 INFO :: This is looged only if we execute the main.py file
+2022-01-31 14:59:08,533 INFO :: Binance futures inicialized
+2022-01-31 15:00:04,441 INFO :: This is logged in all cases
+2022-01-31 15:00:04,442 INFO :: This is looged only if we execute the main.py file
+2022-01-31 15:00:04,442 INFO :: Binance futures inicialized
+2022-01-31 15:00:48,538 INFO :: This is logged in all cases
+2022-01-31 15:00:48,539 INFO :: This is looged only if we execute the main.py file
+2022-01-31 15:00:48,539 INFO :: Binance futures inicialized
+2022-01-31 15:01:29,785 INFO :: This is logged in all cases
+2022-01-31 15:01:29,786 INFO :: This is looged only if we execute the main.py file
+2022-01-31 15:01:29,786 INFO :: Binance futures inicialized
+2022-01-31 15:03:18,899 INFO :: This is logged in all cases
+2022-01-31 15:03:18,900 INFO :: This is looged only if we execute the main.py file
+2022-01-31 15:03:18,900 INFO :: Binance futures inicialized
+2022-01-31 15:03:33,698 INFO :: This is logged in all cases
+2022-01-31 15:03:33,699 INFO :: This is looged only if we execute the main.py file
+2022-01-31 15:03:33,699 INFO :: Binance futures inicialized
+2022-01-31 15:38:54,782 INFO :: This is logged in all cases
+2022-01-31 15:38:54,783 INFO :: This is looged only if we execute the main.py file
+2022-01-31 15:38:54,783 INFO :: Binance futures inicialized
+2022-01-31 15:41:06,058 INFO :: This is logged in all cases
+2022-01-31 15:41:06,059 INFO :: This is looged only if we execute the main.py file
+2022-01-31 15:41:06,059 INFO :: Binance futures inicialized
+2022-01-31 15:42:06,049 INFO :: This is logged in all cases
+2022-01-31 15:42:06,050 INFO :: This is looged only if we execute the main.py file
+2022-01-31 15:42:06,050 INFO :: Binance futures inicialized
+2022-01-31 15:43:07,591 INFO :: This is logged in all cases
+2022-01-31 15:43:07,592 INFO :: This is looged only if we execute the main.py file
+2022-01-31 15:43:07,592 INFO :: Binance futures inicialized
+2022-01-31 16:01:55,576 INFO :: This is logged in all cases
+2022-01-31 16:01:55,577 INFO :: This is looged only if we execute the main.py file
+2022-01-31 16:01:55,577 INFO :: Binance futures inicialized
+2022-01-31 16:04:30,504 INFO :: This is logged in all cases
+2022-01-31 16:04:30,505 INFO :: This is looged only if we execute the main.py file
+2022-01-31 16:04:30,505 INFO :: Binance futures inicialized
+2022-01-31 16:05:14,843 INFO :: This is logged in all cases
+2022-01-31 16:05:14,844 INFO :: This is looged only if we execute the main.py file
+2022-01-31 16:05:14,844 INFO :: Binance futures inicialized
+2022-01-31 16:07:38,373 INFO :: This is logged in all cases
+2022-01-31 16:07:38,374 INFO :: This is looged only if we execute the main.py file
+2022-01-31 16:07:38,374 INFO :: Binance futures inicialized
+2022-01-31 16:09:02,790 INFO :: This is logged in all cases
+2022-01-31 16:09:02,791 INFO :: This is looged only if we execute the main.py file
+2022-01-31 16:09:02,791 INFO :: Binance futures inicialized
+2022-01-31 16:10:24,626 INFO :: This is logged in all cases
+2022-01-31 16:10:24,626 INFO :: This is looged only if we execute the main.py file
+2022-01-31 16:10:24,627 INFO :: Binance futures inicialized
+2022-01-31 16:10:50,606 INFO :: This is logged in all cases
+2022-01-31 16:10:50,607 INFO :: This is looged only if we execute the main.py file
+2022-01-31 16:10:50,607 INFO :: Binance futures inicialized
+2022-02-03 17:45:51,097 INFO :: This is logged in all cases
+2022-02-03 17:45:51,098 INFO :: This is looged only if we execute the main.py file
+2022-02-03 17:45:51,098 INFO :: Binance futures inicialized
+2022-02-03 17:47:22,695 INFO :: This is logged in all cases
+2022-02-03 17:47:22,696 INFO :: This is looged only if we execute the main.py file
+2022-02-03 17:47:22,696 INFO :: Binance futures inicialized
+2022-02-03 17:50:22,125 INFO :: This is logged in all cases
+2022-02-03 17:50:22,125 INFO :: This is looged only if we execute the main.py file
+2022-02-03 17:50:22,125 INFO :: Binance futures inicialized
+2022-02-03 17:52:54,390 INFO :: This is logged in all cases
+2022-02-03 17:52:54,390 INFO :: This is looged only if we execute the main.py file
+2022-02-03 17:52:54,390 INFO :: Binance futures inicialized
+2022-02-03 17:56:54,180 INFO :: This is logged in all cases
+2022-02-03 17:56:54,181 INFO :: This is looged only if we execute the main.py file
+2022-02-03 17:56:54,181 INFO :: Binance futures inicialized
+2022-02-03 17:57:52,744 INFO :: This is logged in all cases
+2022-02-03 17:57:52,745 INFO :: This is looged only if we execute the main.py file
+2022-02-03 17:57:52,745 INFO :: Binance futures inicialized
+2022-02-03 17:58:29,253 INFO :: This is logged in all cases
+2022-02-03 17:58:29,253 INFO :: This is looged only if we execute the main.py file
+2022-02-03 17:58:29,254 INFO :: Binance futures inicialized
+2022-02-03 17:59:30,581 INFO :: This is logged in all cases
+2022-02-03 17:59:30,582 INFO :: This is looged only if we execute the main.py file
+2022-02-03 17:59:30,582 INFO :: Binance futures inicialized
+2022-02-03 17:59:57,806 INFO :: This is logged in all cases
+2022-02-03 17:59:57,806 INFO :: This is looged only if we execute the main.py file
+2022-02-03 17:59:57,807 INFO :: Binance futures inicialized
+2022-02-03 18:00:34,978 INFO :: This is logged in all cases
+2022-02-03 18:00:34,979 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:00:34,979 INFO :: Binance futures inicialized
+2022-02-03 18:03:18,496 INFO :: This is logged in all cases
+2022-02-03 18:03:18,496 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:03:18,496 INFO :: Binance futures inicialized
+2022-02-03 18:04:04,226 INFO :: This is logged in all cases
+2022-02-03 18:04:04,227 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:04:04,227 INFO :: Binance futures inicialized
+2022-02-03 18:04:19,961 INFO :: This is logged in all cases
+2022-02-03 18:04:19,961 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:04:19,962 INFO :: Binance futures inicialized
+2022-02-03 18:04:59,472 INFO :: This is logged in all cases
+2022-02-03 18:04:59,472 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:04:59,472 INFO :: Binance futures inicialized
+2022-02-03 18:05:53,691 INFO :: This is logged in all cases
+2022-02-03 18:05:53,691 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:05:53,691 INFO :: Binance futures inicialized
+2022-02-03 18:07:20,471 INFO :: This is logged in all cases
+2022-02-03 18:07:20,472 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:07:20,472 INFO :: Binance futures inicialized
+2022-02-03 18:07:51,999 INFO :: This is logged in all cases
+2022-02-03 18:07:52,000 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:07:52,000 INFO :: Binance futures inicialized
+2022-02-03 18:08:38,272 INFO :: This is logged in all cases
+2022-02-03 18:08:38,272 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:08:38,272 INFO :: Binance futures inicialized
+2022-02-03 18:09:48,935 INFO :: This is logged in all cases
+2022-02-03 18:09:48,936 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:09:48,936 INFO :: Binance futures inicialized
+2022-02-03 18:10:22,973 INFO :: This is logged in all cases
+2022-02-03 18:10:22,974 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:10:22,974 INFO :: Binance futures inicialized
+2022-02-03 18:10:49,982 INFO :: This is logged in all cases
+2022-02-03 18:10:49,983 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:10:49,983 INFO :: Binance futures inicialized
+2022-02-03 18:11:18,669 INFO :: This is logged in all cases
+2022-02-03 18:11:18,670 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:11:18,670 INFO :: Binance futures inicialized
+2022-02-03 18:11:48,408 INFO :: This is logged in all cases
+2022-02-03 18:11:48,408 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:11:48,408 INFO :: Binance futures inicialized
+2022-02-03 18:12:14,236 INFO :: This is logged in all cases
+2022-02-03 18:12:14,237 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:12:14,237 INFO :: Binance futures inicialized
+2022-02-03 18:12:46,259 INFO :: This is logged in all cases
+2022-02-03 18:12:46,260 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:12:46,260 INFO :: Binance futures inicialized
+2022-02-03 18:14:47,330 INFO :: This is logged in all cases
+2022-02-03 18:14:47,331 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:14:47,331 INFO :: Binance futures inicialized
+2022-02-03 18:23:18,644 INFO :: This is logged in all cases
+2022-02-03 18:23:18,645 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:23:18,645 INFO :: Binance futures inicialized
+2022-02-03 18:29:55,481 INFO :: This is logged in all cases
+2022-02-03 18:29:55,482 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:29:55,482 INFO :: Binance futures inicialized
+2022-02-03 18:32:55,712 INFO :: This is logged in all cases
+2022-02-03 18:32:55,713 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:32:55,713 INFO :: Binance futures inicialized
+2022-02-03 18:33:22,786 INFO :: This is logged in all cases
+2022-02-03 18:33:22,787 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:33:22,787 INFO :: Binance futures inicialized
+2022-02-03 18:38:21,845 INFO :: This is logged in all cases
+2022-02-03 18:38:21,845 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:38:21,845 INFO :: Binance futures inicialized
+2022-02-03 18:39:30,827 INFO :: This is logged in all cases
+2022-02-03 18:39:30,828 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:39:30,828 INFO :: Binance futures inicialized
+2022-02-03 18:39:43,820 INFO :: This is logged in all cases
+2022-02-03 18:39:43,821 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:39:43,821 INFO :: Binance futures inicialized
+2022-02-03 18:40:00,255 INFO :: This is logged in all cases
+2022-02-03 18:40:00,255 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:40:00,255 INFO :: Binance futures inicialized
+2022-02-03 18:40:23,667 INFO :: This is logged in all cases
+2022-02-03 18:40:23,667 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:40:23,667 INFO :: Binance futures inicialized
+2022-02-03 18:41:16,586 INFO :: This is logged in all cases
+2022-02-03 18:41:16,587 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:41:16,587 INFO :: Binance futures inicialized
+2022-02-03 18:41:42,405 INFO :: This is logged in all cases
+2022-02-03 18:41:42,406 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:41:42,406 INFO :: Binance futures inicialized
+2022-02-03 18:41:55,202 INFO :: This is logged in all cases
+2022-02-03 18:41:55,203 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:41:55,203 INFO :: Binance futures inicialized
+2022-02-03 18:42:08,636 INFO :: This is logged in all cases
+2022-02-03 18:42:08,637 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:42:08,637 INFO :: Binance futures inicialized
+2022-02-03 18:42:22,548 INFO :: This is logged in all cases
+2022-02-03 18:42:22,548 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:42:22,548 INFO :: Binance futures inicialized
+2022-02-03 18:42:37,910 INFO :: This is logged in all cases
+2022-02-03 18:42:37,910 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:42:37,911 INFO :: Binance futures inicialized
+2022-02-03 18:43:23,638 INFO :: This is logged in all cases
+2022-02-03 18:43:23,639 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:43:23,639 INFO :: Binance futures inicialized
+2022-02-03 18:43:51,072 INFO :: This is logged in all cases
+2022-02-03 18:43:51,073 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:43:51,073 INFO :: Binance futures inicialized
+2022-02-03 18:53:56,624 INFO :: This is logged in all cases
+2022-02-03 18:53:56,624 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:53:56,624 INFO :: Binance futures inicialized
+2022-02-03 18:57:38,676 INFO :: This is logged in all cases
+2022-02-03 18:57:38,677 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:57:38,677 INFO :: Binance futures inicialized
+2022-02-03 18:58:13,785 INFO :: This is logged in all cases
+2022-02-03 18:58:13,786 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:58:13,786 INFO :: Binance futures inicialized
+2022-02-03 18:58:54,754 INFO :: This is logged in all cases
+2022-02-03 18:58:54,755 INFO :: This is looged only if we execute the main.py file
+2022-02-03 18:58:54,755 INFO :: Binance futures inicialized
+2022-02-03 19:00:06,782 INFO :: This is logged in all cases
+2022-02-03 19:00:06,783 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:00:06,783 INFO :: Binance futures inicialized
+2022-02-03 19:01:14,323 INFO :: This is logged in all cases
+2022-02-03 19:01:14,323 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:01:14,323 INFO :: Binance futures inicialized
+2022-02-03 19:01:57,865 INFO :: This is logged in all cases
+2022-02-03 19:01:57,865 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:01:57,865 INFO :: Binance futures inicialized
+2022-02-03 19:02:21,041 INFO :: This is logged in all cases
+2022-02-03 19:02:21,041 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:02:21,041 INFO :: Binance futures inicialized
+2022-02-03 19:02:40,478 INFO :: This is logged in all cases
+2022-02-03 19:02:40,479 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:02:40,479 INFO :: Binance futures inicialized
+2022-02-03 19:04:48,572 INFO :: This is logged in all cases
+2022-02-03 19:04:48,572 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:04:48,572 INFO :: Binance futures inicialized
+2022-02-03 19:14:24,191 INFO :: This is logged in all cases
+2022-02-03 19:14:24,192 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:14:24,192 INFO :: Binance futures inicialized
+2022-02-03 19:14:58,215 INFO :: This is logged in all cases
+2022-02-03 19:14:58,216 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:14:58,216 INFO :: Binance futures inicialized
+2022-02-03 19:16:25,267 INFO :: This is logged in all cases
+2022-02-03 19:16:25,268 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:16:25,268 INFO :: Binance futures inicialized
+2022-02-03 19:16:58,576 INFO :: This is logged in all cases
+2022-02-03 19:16:58,577 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:16:58,577 INFO :: Binance futures inicialized
+2022-02-03 19:30:36,557 INFO :: This is logged in all cases
+2022-02-03 19:30:36,557 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:30:36,558 INFO :: Binance futures inicialized
+2022-02-03 19:31:03,207 INFO :: This is logged in all cases
+2022-02-03 19:31:03,207 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:31:03,208 INFO :: Binance futures inicialized
+2022-02-03 19:31:39,405 INFO :: This is logged in all cases
+2022-02-03 19:31:39,406 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:31:39,406 INFO :: Binance futures inicialized
+2022-02-03 19:32:16,346 INFO :: This is logged in all cases
+2022-02-03 19:32:16,347 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:32:16,347 INFO :: Binance futures inicialized
+2022-02-03 19:32:37,906 INFO :: This is logged in all cases
+2022-02-03 19:32:37,907 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:32:37,907 INFO :: Binance futures inicialized
+2022-02-03 19:34:24,598 INFO :: This is logged in all cases
+2022-02-03 19:34:24,599 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:34:24,599 INFO :: Binance futures inicialized
+2022-02-03 19:35:02,155 INFO :: This is logged in all cases
+2022-02-03 19:35:02,156 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:35:02,156 INFO :: Binance futures inicialized
+2022-02-03 19:35:46,633 INFO :: This is logged in all cases
+2022-02-03 19:35:46,634 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:35:46,634 INFO :: Binance futures inicialized
+2022-02-03 19:37:09,346 INFO :: This is logged in all cases
+2022-02-03 19:37:09,347 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:37:09,347 INFO :: Binance futures inicialized
+2022-02-03 19:37:55,801 INFO :: This is logged in all cases
+2022-02-03 19:37:55,802 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:37:55,802 INFO :: Binance futures inicialized
+2022-02-03 19:40:49,349 INFO :: This is logged in all cases
+2022-02-03 19:40:49,349 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:40:49,349 INFO :: Binance futures inicialized
+2022-02-03 19:41:40,001 INFO :: This is logged in all cases
+2022-02-03 19:41:40,002 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:41:40,002 INFO :: Binance futures inicialized
+2022-02-03 19:43:27,233 INFO :: This is logged in all cases
+2022-02-03 19:43:27,234 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:43:27,234 INFO :: Binance futures inicialized
+2022-02-03 19:44:28,866 INFO :: This is logged in all cases
+2022-02-03 19:44:28,867 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:44:28,867 INFO :: Binance futures inicialized
+2022-02-03 19:44:50,435 INFO :: This is logged in all cases
+2022-02-03 19:44:50,436 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:44:50,436 INFO :: Binance futures inicialized
+2022-02-03 19:47:20,299 INFO :: This is logged in all cases
+2022-02-03 19:47:20,299 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:47:20,300 INFO :: Binance futures inicialized
+2022-02-03 19:48:05,130 INFO :: This is logged in all cases
+2022-02-03 19:48:05,131 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:48:05,131 INFO :: Binance futures inicialized
+2022-02-03 19:48:53,221 INFO :: This is logged in all cases
+2022-02-03 19:48:53,221 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:48:53,221 INFO :: Binance futures inicialized
+2022-02-03 19:49:24,413 INFO :: This is logged in all cases
+2022-02-03 19:49:24,413 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:49:24,413 INFO :: Binance futures inicialized
+2022-02-03 19:49:43,499 INFO :: This is logged in all cases
+2022-02-03 19:49:43,500 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:49:43,500 INFO :: Binance futures inicialized
+2022-02-03 19:50:10,606 INFO :: This is logged in all cases
+2022-02-03 19:50:10,607 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:50:10,607 INFO :: Binance futures inicialized
+2022-02-03 19:50:29,216 INFO :: This is logged in all cases
+2022-02-03 19:50:29,216 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:50:29,217 INFO :: Binance futures inicialized
+2022-02-03 19:51:28,267 INFO :: This is logged in all cases
+2022-02-03 19:51:28,268 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:51:28,268 INFO :: Binance futures inicialized
+2022-02-03 19:52:20,372 INFO :: This is logged in all cases
+2022-02-03 19:52:20,373 INFO :: This is looged only if we execute the main.py file
+2022-02-03 19:52:20,373 INFO :: Binance futures inicialized
+2022-02-04 11:20:03,039 INFO :: This is logged in all cases
+2022-02-04 11:20:03,040 INFO :: This is looged only if we execute the main.py file
+2022-02-04 11:20:03,040 INFO :: Binance futures inicialized
+2022-02-04 11:20:28,503 INFO :: This is logged in all cases
+2022-02-04 11:20:28,504 INFO :: This is looged only if we execute the main.py file
+2022-02-04 11:20:28,504 INFO :: Binance futures inicialized
+2022-02-04 11:23:04,242 INFO :: This is logged in all cases
+2022-02-04 11:23:04,243 INFO :: This is looged only if we execute the main.py file
+2022-02-04 11:23:04,243 INFO :: Binance futures inicialized
+2022-02-04 11:56:42,647 INFO :: This is logged in all cases
+2022-02-04 11:56:42,648 INFO :: This is looged only if we execute the main.py file
+2022-02-04 11:56:42,648 INFO :: Binance futures inicialized
+2022-02-04 11:57:06,183 INFO :: This is logged in all cases
+2022-02-04 11:57:06,184 INFO :: This is looged only if we execute the main.py file
+2022-02-04 11:57:06,184 INFO :: Binance futures inicialized
+2022-02-04 11:57:29,010 INFO :: This is logged in all cases
+2022-02-04 11:57:29,011 INFO :: This is looged only if we execute the main.py file
+2022-02-04 11:57:29,011 INFO :: Binance futures inicialized
+2022-02-04 11:57:42,749 INFO :: This is logged in all cases
+2022-02-04 11:57:42,750 INFO :: This is looged only if we execute the main.py file
+2022-02-04 11:57:42,750 INFO :: Binance futures inicialized
+2022-02-04 11:59:33,683 INFO :: This is logged in all cases
+2022-02-04 11:59:33,684 INFO :: This is looged only if we execute the main.py file
+2022-02-04 11:59:33,684 INFO :: Binance futures inicialized
+2022-02-04 12:19:32,423 INFO :: This is logged in all cases
+2022-02-04 12:19:32,423 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:19:32,423 INFO :: Binance futures inicialized
+2022-02-04 12:20:42,628 INFO :: This is logged in all cases
+2022-02-04 12:20:42,629 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:20:42,629 INFO :: Binance futures inicialized
+2022-02-04 12:21:17,582 INFO :: This is logged in all cases
+2022-02-04 12:21:17,582 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:21:17,582 INFO :: Binance futures inicialized
+2022-02-04 12:22:42,851 INFO :: This is logged in all cases
+2022-02-04 12:22:42,852 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:22:42,852 INFO :: Binance futures inicialized
+2022-02-04 12:24:26,347 INFO :: This is logged in all cases
+2022-02-04 12:24:26,347 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:24:26,347 INFO :: Binance futures inicialized
+2022-02-04 12:29:09,590 INFO :: This is logged in all cases
+2022-02-04 12:29:09,590 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:29:09,590 INFO :: Binance futures inicialized
+2022-02-04 12:31:00,682 INFO :: This is logged in all cases
+2022-02-04 12:31:00,683 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:31:00,683 INFO :: Binance futures inicialized
+2022-02-04 12:31:10,630 INFO :: This is logged in all cases
+2022-02-04 12:31:10,631 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:31:10,631 INFO :: Binance futures inicialized
+2022-02-04 12:32:00,422 INFO :: This is logged in all cases
+2022-02-04 12:32:00,423 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:32:00,423 INFO :: Binance futures inicialized
+2022-02-04 12:32:50,490 INFO :: This is logged in all cases
+2022-02-04 12:32:50,490 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:32:50,490 INFO :: Binance futures inicialized
+2022-02-04 12:33:54,595 INFO :: This is logged in all cases
+2022-02-04 12:33:54,596 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:33:54,596 INFO :: Binance futures inicialized
+2022-02-04 12:41:07,869 INFO :: This is logged in all cases
+2022-02-04 12:41:07,869 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:41:07,870 INFO :: Binance futures inicialized
+2022-02-04 12:44:14,818 INFO :: This is logged in all cases
+2022-02-04 12:44:14,819 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:44:14,819 INFO :: Binance futures inicialized
+2022-02-04 12:44:42,027 INFO :: This is logged in all cases
+2022-02-04 12:44:42,028 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:44:42,028 INFO :: Binance futures inicialized
+2022-02-04 12:44:52,208 INFO :: This is logged in all cases
+2022-02-04 12:44:52,209 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:44:52,209 INFO :: Binance futures inicialized
+2022-02-04 12:45:25,603 INFO :: This is logged in all cases
+2022-02-04 12:45:25,603 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:45:25,603 INFO :: Binance futures inicialized
+2022-02-04 12:48:04,250 INFO :: This is logged in all cases
+2022-02-04 12:48:04,251 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:48:04,251 INFO :: Binance futures inicialized
+2022-02-04 12:50:05,393 INFO :: This is logged in all cases
+2022-02-04 12:50:05,394 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:50:05,394 INFO :: Binance futures inicialized
+2022-02-04 12:50:50,856 INFO :: This is logged in all cases
+2022-02-04 12:50:50,856 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:50:50,856 INFO :: Binance futures inicialized
+2022-02-04 12:58:02,698 INFO :: This is logged in all cases
+2022-02-04 12:58:02,699 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:58:02,699 INFO :: Binance futures inicialized
+2022-02-04 12:58:44,260 INFO :: This is logged in all cases
+2022-02-04 12:58:44,261 INFO :: This is looged only if we execute the main.py file
+2022-02-04 12:58:44,261 INFO :: Binance futures inicialized
+2022-02-04 13:00:33,342 INFO :: This is logged in all cases
+2022-02-04 13:00:33,343 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:00:33,343 INFO :: Binance futures inicialized
+2022-02-04 13:01:03,340 INFO :: This is logged in all cases
+2022-02-04 13:01:03,340 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:01:03,340 INFO :: Binance futures inicialized
+2022-02-04 13:01:51,749 INFO :: This is logged in all cases
+2022-02-04 13:01:51,750 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:01:51,750 INFO :: Binance futures inicialized
+2022-02-04 13:02:18,710 INFO :: This is logged in all cases
+2022-02-04 13:02:18,711 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:02:18,711 INFO :: Binance futures inicialized
+2022-02-04 13:02:51,332 INFO :: This is logged in all cases
+2022-02-04 13:02:51,333 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:02:51,333 INFO :: Binance futures inicialized
+2022-02-04 13:03:32,860 INFO :: This is logged in all cases
+2022-02-04 13:03:32,861 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:03:32,861 INFO :: Binance futures inicialized
+2022-02-04 13:04:42,943 INFO :: This is logged in all cases
+2022-02-04 13:04:42,943 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:04:42,943 INFO :: Binance futures inicialized
+2022-02-04 13:07:23,185 INFO :: This is logged in all cases
+2022-02-04 13:07:23,186 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:07:23,186 INFO :: Binance futures inicialized
+2022-02-04 13:07:38,568 INFO :: This is logged in all cases
+2022-02-04 13:07:38,569 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:07:38,569 INFO :: Binance futures inicialized
+2022-02-04 13:08:34,055 INFO :: This is logged in all cases
+2022-02-04 13:08:34,056 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:08:34,056 INFO :: Binance futures inicialized
+2022-02-04 13:08:55,449 INFO :: This is logged in all cases
+2022-02-04 13:08:55,450 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:08:55,450 INFO :: Binance futures inicialized
+2022-02-04 13:09:06,175 INFO :: This is logged in all cases
+2022-02-04 13:09:06,176 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:09:06,176 INFO :: Binance futures inicialized
+2022-02-04 13:11:35,054 INFO :: This is logged in all cases
+2022-02-04 13:11:35,055 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:11:35,055 INFO :: Binance futures inicialized
+2022-02-04 13:12:02,633 INFO :: This is logged in all cases
+2022-02-04 13:12:02,634 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:12:02,634 INFO :: Binance futures inicialized
+2022-02-04 13:13:49,879 INFO :: This is logged in all cases
+2022-02-04 13:13:49,880 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:13:49,880 INFO :: Binance futures inicialized
+2022-02-04 13:18:04,239 INFO :: This is logged in all cases
+2022-02-04 13:18:04,240 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:18:04,240 INFO :: Binance futures inicialized
+2022-02-04 13:18:30,731 INFO :: This is logged in all cases
+2022-02-04 13:18:30,732 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:18:30,732 INFO :: Binance futures inicialized
+2022-02-04 13:18:46,443 INFO :: This is logged in all cases
+2022-02-04 13:18:46,444 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:18:46,444 INFO :: Binance futures inicialized
+2022-02-04 13:19:07,767 INFO :: This is logged in all cases
+2022-02-04 13:19:07,768 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:19:07,768 INFO :: Binance futures inicialized
+2022-02-04 13:19:29,696 INFO :: This is logged in all cases
+2022-02-04 13:19:29,697 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:19:29,697 INFO :: Binance futures inicialized
+2022-02-04 13:19:59,258 INFO :: This is logged in all cases
+2022-02-04 13:19:59,259 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:19:59,259 INFO :: Binance futures inicialized
+2022-02-04 13:20:55,420 INFO :: This is logged in all cases
+2022-02-04 13:20:55,421 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:20:55,421 INFO :: Binance futures inicialized
+2022-02-04 13:21:45,525 INFO :: This is logged in all cases
+2022-02-04 13:21:45,526 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:21:45,526 INFO :: Binance futures inicialized
+2022-02-04 13:22:16,551 INFO :: This is logged in all cases
+2022-02-04 13:22:16,552 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:22:16,552 INFO :: Binance futures inicialized
+2022-02-04 13:22:36,419 INFO :: This is logged in all cases
+2022-02-04 13:22:36,420 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:22:36,420 INFO :: Binance futures inicialized
+2022-02-04 13:24:20,117 INFO :: This is logged in all cases
+2022-02-04 13:24:20,118 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:24:20,118 INFO :: Binance futures inicialized
+2022-02-04 13:24:52,741 INFO :: This is logged in all cases
+2022-02-04 13:24:52,742 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:24:52,742 INFO :: Binance futures inicialized
+2022-02-04 13:25:23,932 INFO :: This is logged in all cases
+2022-02-04 13:25:23,933 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:25:23,933 INFO :: Binance futures inicialized
+2022-02-04 13:31:37,252 INFO :: This is logged in all cases
+2022-02-04 13:31:37,253 INFO :: This is looged only if we execute the main.py file
+2022-02-04 13:31:37,253 INFO :: Binance futures inicialized
+2022-02-04 14:37:32,848 INFO :: This is logged in all cases
+2022-02-04 14:37:32,849 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:37:32,849 INFO :: Binance futures inicialized
+2022-02-04 14:39:29,853 INFO :: This is logged in all cases
+2022-02-04 14:39:29,854 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:39:29,854 INFO :: Binance futures inicialized
+2022-02-04 14:39:55,666 INFO :: This is logged in all cases
+2022-02-04 14:39:55,667 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:39:55,667 INFO :: Binance futures inicialized
+2022-02-04 14:40:27,309 INFO :: This is logged in all cases
+2022-02-04 14:40:27,310 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:40:27,310 INFO :: Binance futures inicialized
+2022-02-04 14:40:49,422 INFO :: This is logged in all cases
+2022-02-04 14:40:49,422 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:40:49,423 INFO :: Binance futures inicialized
+2022-02-04 14:41:20,793 INFO :: This is logged in all cases
+2022-02-04 14:41:20,794 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:41:20,794 INFO :: Binance futures inicialized
+2022-02-04 14:42:09,696 INFO :: This is logged in all cases
+2022-02-04 14:42:09,697 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:42:09,697 INFO :: Binance futures inicialized
+2022-02-04 14:43:03,786 INFO :: This is logged in all cases
+2022-02-04 14:43:03,787 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:43:03,787 INFO :: Binance futures inicialized
+2022-02-04 14:43:27,838 INFO :: This is logged in all cases
+2022-02-04 14:43:27,839 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:43:27,839 INFO :: Binance futures inicialized
+2022-02-04 14:44:14,668 INFO :: This is logged in all cases
+2022-02-04 14:44:14,669 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:44:14,669 INFO :: Binance futures inicialized
+2022-02-04 14:45:26,231 INFO :: ascii passed initial chaos probing. Mean measured chaos is 0.000000 %
+2022-02-04 14:45:26,232 INFO :: ascii should target any language(s) of ['Latin Based']
+2022-02-04 14:45:26,237 INFO :: We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0)] using ascii
+2022-02-04 14:45:26,237 INFO :: ascii is most likely the one. Stopping the process.
+2022-02-04 14:46:14,624 INFO :: This is logged in all cases
+2022-02-04 14:46:14,625 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:46:14,625 INFO :: Binance futures inicialized
+2022-02-04 14:47:51,439 INFO :: This is logged in all cases
+2022-02-04 14:47:51,439 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:47:51,439 INFO :: Binance futures inicialized
+2022-02-04 14:48:29,216 INFO :: This is logged in all cases
+2022-02-04 14:48:29,217 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:48:29,217 INFO :: Binance futures inicialized
+2022-02-04 14:54:06,476 INFO :: This is logged in all cases
+2022-02-04 14:54:06,476 INFO :: This is looged only if we execute the main.py file
+2022-02-04 14:54:06,477 INFO :: Binance futures inicialized
+2022-02-04 15:01:35,170 INFO :: This is logged in all cases
+2022-02-04 15:01:35,171 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:01:35,171 INFO :: Binance futures inicialized
+2022-02-04 15:02:23,615 INFO :: This is logged in all cases
+2022-02-04 15:02:23,615 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:02:23,615 INFO :: Binance futures inicialized
+2022-02-04 15:14:04,315 INFO :: This is logged in all cases
+2022-02-04 15:14:04,316 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:14:04,316 INFO :: Binance futures inicialized
+2022-02-04 15:14:32,878 INFO :: This is logged in all cases
+2022-02-04 15:14:32,879 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:14:32,879 INFO :: Binance futures inicialized
+2022-02-04 15:16:06,362 INFO :: This is logged in all cases
+2022-02-04 15:16:06,363 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:16:06,363 INFO :: Binance futures inicialized
+2022-02-04 15:21:12,762 INFO :: This is logged in all cases
+2022-02-04 15:21:12,762 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:21:12,763 INFO :: Binance futures inicialized
+2022-02-04 15:23:39,251 INFO :: This is logged in all cases
+2022-02-04 15:23:39,251 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:23:39,252 INFO :: Binance futures inicialized
+2022-02-04 15:29:56,052 INFO :: This is logged in all cases
+2022-02-04 15:29:56,052 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:29:56,053 INFO :: Binance futures inicialized
+2022-02-04 15:31:32,123 INFO :: This is logged in all cases
+2022-02-04 15:31:32,123 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:31:32,123 INFO :: Binance futures inicialized
+2022-02-04 15:33:41,335 INFO :: This is logged in all cases
+2022-02-04 15:33:41,336 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:33:41,336 INFO :: Binance futures inicialized
+2022-02-04 15:35:43,978 INFO :: This is logged in all cases
+2022-02-04 15:35:43,979 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:35:43,979 INFO :: Binance futures inicialized
+2022-02-04 15:36:24,996 INFO :: This is logged in all cases
+2022-02-04 15:36:24,997 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:36:24,997 INFO :: Binance futures inicialized
+2022-02-04 15:36:55,725 INFO :: This is logged in all cases
+2022-02-04 15:36:55,726 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:36:55,726 INFO :: Binance futures inicialized
+2022-02-04 15:38:55,861 INFO :: This is logged in all cases
+2022-02-04 15:38:55,862 INFO :: This is looged only if we execute the main.py file
+2022-02-04 15:38:55,862 INFO :: Binance futures inicialized
+2022-02-04 16:57:02,504 INFO :: This is logged in all cases
+2022-02-04 16:57:02,505 INFO :: This is looged only if we execute the main.py file
+2022-02-04 16:57:02,505 INFO :: Binance futures inicialized
+2022-02-04 16:59:33,474 INFO :: This is logged in all cases
+2022-02-04 16:59:33,475 INFO :: This is looged only if we execute the main.py file
+2022-02-04 16:59:33,475 INFO :: Binance futures inicialized
+2022-02-09 19:35:31,713 INFO :: This is logged in all cases
+2022-02-09 19:35:31,713 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:35:31,714 INFO :: Binance futures inicialized
+2022-02-09 19:38:11,422 INFO :: This is logged in all cases
+2022-02-09 19:38:11,423 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:38:11,423 INFO :: Binance futures inicialized
+2022-02-09 19:39:01,424 INFO :: This is logged in all cases
+2022-02-09 19:39:01,425 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:39:01,425 INFO :: Binance futures inicialized
+2022-02-09 19:40:00,949 INFO :: This is logged in all cases
+2022-02-09 19:40:00,949 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:40:00,949 INFO :: Binance futures inicialized
+2022-02-09 19:40:45,526 INFO :: This is logged in all cases
+2022-02-09 19:40:45,527 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:40:45,527 INFO :: Binance futures inicialized
+2022-02-09 19:43:48,405 INFO :: This is logged in all cases
+2022-02-09 19:43:48,406 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:43:48,406 INFO :: Binance futures inicialized
+2022-02-09 19:44:39,088 INFO :: This is logged in all cases
+2022-02-09 19:44:39,088 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:44:39,089 INFO :: Binance futures inicialized
+2022-02-09 19:46:15,754 INFO :: This is logged in all cases
+2022-02-09 19:46:15,754 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:46:15,755 INFO :: Binance futures inicialized
+2022-02-09 19:46:46,551 INFO :: This is logged in all cases
+2022-02-09 19:46:46,551 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:46:46,551 INFO :: Binance futures inicialized
+2022-02-09 19:47:35,245 INFO :: This is logged in all cases
+2022-02-09 19:47:35,246 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:47:35,246 INFO :: Binance futures inicialized
+2022-02-09 19:50:39,930 INFO :: This is logged in all cases
+2022-02-09 19:50:39,931 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:50:39,931 INFO :: Binance futures inicialized
+2022-02-09 19:51:22,106 INFO :: This is logged in all cases
+2022-02-09 19:51:22,107 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:51:22,107 INFO :: Binance futures inicialized
+2022-02-09 19:53:14,914 INFO :: This is logged in all cases
+2022-02-09 19:53:14,915 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:53:14,915 INFO :: Binance futures inicialized
+2022-02-09 19:54:19,675 INFO :: This is logged in all cases
+2022-02-09 19:54:19,676 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:54:19,676 INFO :: Binance futures inicialized
+2022-02-09 19:54:51,019 INFO :: This is logged in all cases
+2022-02-09 19:54:51,020 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:54:51,020 INFO :: Binance futures inicialized
+2022-02-09 19:57:10,911 INFO :: This is logged in all cases
+2022-02-09 19:57:10,912 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:57:10,912 INFO :: Binance futures inicialized
+2022-02-09 19:58:27,707 INFO :: This is logged in all cases
+2022-02-09 19:58:27,708 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:58:27,708 INFO :: Binance futures inicialized
+2022-02-09 19:58:55,279 INFO :: This is logged in all cases
+2022-02-09 19:58:55,280 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:58:55,280 INFO :: Binance futures inicialized
+2022-02-09 19:59:48,975 INFO :: This is logged in all cases
+2022-02-09 19:59:48,976 INFO :: This is looged only if we execute the main.py file
+2022-02-09 19:59:48,976 INFO :: Binance futures inicialized
+2022-02-09 20:00:52,111 INFO :: This is logged in all cases
+2022-02-09 20:00:52,112 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:00:52,112 INFO :: Binance futures inicialized
+2022-02-09 20:01:58,054 INFO :: This is logged in all cases
+2022-02-09 20:01:58,054 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:01:58,055 INFO :: Binance futures inicialized
+2022-02-09 20:03:16,776 INFO :: This is logged in all cases
+2022-02-09 20:03:16,777 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:03:16,777 INFO :: Binance futures inicialized
+2022-02-09 20:05:58,996 INFO :: This is logged in all cases
+2022-02-09 20:05:58,997 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:05:58,997 INFO :: Binance futures inicialized
+2022-02-09 20:11:18,717 INFO :: This is logged in all cases
+2022-02-09 20:11:18,718 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:11:18,718 INFO :: Binance futures inicialized
+2022-02-09 20:18:43,736 INFO :: This is logged in all cases
+2022-02-09 20:18:43,737 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:18:43,737 INFO :: Binance futures inicialized
+2022-02-09 20:19:19,900 INFO :: This is logged in all cases
+2022-02-09 20:19:19,901 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:19:19,901 INFO :: Binance futures inicialized
+2022-02-09 20:25:27,933 INFO :: This is logged in all cases
+2022-02-09 20:25:27,934 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:25:27,934 INFO :: Binance futures inicialized
+2022-02-09 20:25:40,819 INFO :: This is logged in all cases
+2022-02-09 20:25:40,820 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:25:40,820 INFO :: Binance futures inicialized
+2022-02-09 20:26:05,877 INFO :: This is logged in all cases
+2022-02-09 20:26:05,877 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:26:05,877 INFO :: Binance futures inicialized
+2022-02-09 20:26:20,336 INFO :: This is logged in all cases
+2022-02-09 20:26:20,337 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:26:20,337 INFO :: Binance futures inicialized
+2022-02-09 20:27:00,330 INFO :: This is logged in all cases
+2022-02-09 20:27:00,331 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:27:00,331 INFO :: Binance futures inicialized
+2022-02-09 20:31:43,741 INFO :: This is logged in all cases
+2022-02-09 20:31:43,742 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:31:43,742 INFO :: Binance futures inicialized
+2022-02-09 20:36:07,527 INFO :: This is logged in all cases
+2022-02-09 20:36:07,527 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:36:07,528 INFO :: Binance futures inicialized
+2022-02-09 20:36:44,087 INFO :: This is logged in all cases
+2022-02-09 20:36:44,088 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:36:44,088 INFO :: Binance futures inicialized
+2022-02-09 20:37:07,002 INFO :: This is logged in all cases
+2022-02-09 20:37:07,003 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:37:07,003 INFO :: Binance futures inicialized
+2022-02-09 20:47:30,092 INFO :: This is logged in all cases
+2022-02-09 20:47:30,092 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:47:30,093 INFO :: Binance futures inicialized
+2022-02-09 20:47:51,246 INFO :: This is logged in all cases
+2022-02-09 20:47:51,247 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:47:51,247 INFO :: Binance futures inicialized
+2022-02-09 20:48:07,309 INFO :: This is logged in all cases
+2022-02-09 20:48:07,310 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:48:07,310 INFO :: Binance futures inicialized
+2022-02-09 20:48:48,011 INFO :: This is logged in all cases
+2022-02-09 20:48:48,012 INFO :: This is looged only if we execute the main.py file
+2022-02-09 20:48:48,012 INFO :: Binance futures inicialized
+2022-02-09 21:00:17,966 INFO :: This is logged in all cases
+2022-02-09 21:00:17,967 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:00:17,967 INFO :: Binance futures inicialized
+2022-02-09 21:01:21,639 INFO :: This is logged in all cases
+2022-02-09 21:01:21,640 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:01:21,640 INFO :: Binance futures inicialized
+2022-02-09 21:01:48,738 INFO :: This is logged in all cases
+2022-02-09 21:01:48,739 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:01:48,739 INFO :: Binance futures inicialized
+2022-02-09 21:04:01,149 INFO :: This is logged in all cases
+2022-02-09 21:04:01,150 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:04:01,150 INFO :: Binance futures inicialized
+2022-02-09 21:04:39,854 INFO :: This is logged in all cases
+2022-02-09 21:04:39,855 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:04:39,855 INFO :: Binance futures inicialized
+2022-02-09 21:11:11,108 INFO :: This is logged in all cases
+2022-02-09 21:11:11,109 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:11:11,109 INFO :: Binance futures inicialized
+2022-02-09 21:11:38,017 INFO :: This is logged in all cases
+2022-02-09 21:11:38,018 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:11:38,018 INFO :: Binance futures inicialized
+2022-02-09 21:11:52,256 INFO :: This is logged in all cases
+2022-02-09 21:11:52,257 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:11:52,257 INFO :: Binance futures inicialized
+2022-02-09 21:12:04,435 INFO :: This is logged in all cases
+2022-02-09 21:12:04,436 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:12:04,436 INFO :: Binance futures inicialized
+2022-02-09 21:12:45,320 INFO :: This is logged in all cases
+2022-02-09 21:12:45,320 INFO :: This is looged only if we execute the main.py file
+2022-02-09 21:12:45,320 INFO :: Binance futures inicialized
+2022-02-10 14:50:10,660 INFO :: This is logged in all cases
+2022-02-10 14:50:10,661 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:50:10,661 INFO :: Binance futures inicialized
+2022-02-10 14:51:35,545 INFO :: This is logged in all cases
+2022-02-10 14:51:35,545 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:51:35,545 INFO :: Binance futures inicialized
+2022-02-10 14:51:55,743 INFO :: This is logged in all cases
+2022-02-10 14:51:55,744 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:51:55,744 INFO :: Binance futures inicialized
+2022-02-10 14:52:18,482 INFO :: This is logged in all cases
+2022-02-10 14:52:18,483 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:52:18,483 INFO :: Binance futures inicialized
+2022-02-10 14:52:37,950 INFO :: This is logged in all cases
+2022-02-10 14:52:37,951 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:52:37,951 INFO :: Binance futures inicialized
+2022-02-10 14:53:20,880 INFO :: This is logged in all cases
+2022-02-10 14:53:20,880 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:53:20,880 INFO :: Binance futures inicialized
+2022-02-10 14:53:46,294 INFO :: This is logged in all cases
+2022-02-10 14:53:46,294 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:53:46,294 INFO :: Binance futures inicialized
+2022-02-10 14:54:18,767 INFO :: This is logged in all cases
+2022-02-10 14:54:18,768 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:54:18,768 INFO :: Binance futures inicialized
+2022-02-10 14:57:42,840 INFO :: This is logged in all cases
+2022-02-10 14:57:42,841 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:57:42,841 INFO :: Binance futures inicialized
+2022-02-10 14:59:35,436 INFO :: This is logged in all cases
+2022-02-10 14:59:35,437 INFO :: This is looged only if we execute the main.py file
+2022-02-10 14:59:35,437 INFO :: Binance futures inicialized
+2022-02-10 15:00:16,863 INFO :: This is logged in all cases
+2022-02-10 15:00:16,864 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:00:16,864 INFO :: Binance futures inicialized
+2022-02-10 15:00:52,745 INFO :: This is logged in all cases
+2022-02-10 15:00:52,746 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:00:52,746 INFO :: Binance futures inicialized
+2022-02-10 15:01:16,041 INFO :: This is logged in all cases
+2022-02-10 15:01:16,042 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:01:16,042 INFO :: Binance futures inicialized
+2022-02-10 15:01:55,908 INFO :: This is logged in all cases
+2022-02-10 15:01:55,909 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:01:55,909 INFO :: Binance futures inicialized
+2022-02-10 15:06:58,929 INFO :: This is logged in all cases
+2022-02-10 15:06:58,930 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:06:58,930 INFO :: Binance futures inicialized
+2022-02-10 15:08:01,843 INFO :: This is logged in all cases
+2022-02-10 15:08:01,844 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:08:01,844 INFO :: Binance futures inicialized
+2022-02-10 15:08:35,442 INFO :: This is logged in all cases
+2022-02-10 15:08:35,443 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:08:35,443 INFO :: Binance futures inicialized
+2022-02-10 15:09:02,282 INFO :: This is logged in all cases
+2022-02-10 15:09:02,283 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:09:02,283 INFO :: Binance futures inicialized
+2022-02-10 15:21:14,406 INFO :: This is logged in all cases
+2022-02-10 15:21:14,407 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:21:14,407 INFO :: Binance futures inicialized
+2022-02-10 15:22:03,354 INFO :: This is logged in all cases
+2022-02-10 15:22:03,355 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:22:03,355 INFO :: Binance futures inicialized
+2022-02-10 15:26:37,005 INFO :: This is logged in all cases
+2022-02-10 15:26:37,006 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:26:37,006 INFO :: Binance futures inicialized
+2022-02-10 15:30:38,198 INFO :: This is logged in all cases
+2022-02-10 15:30:38,199 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:30:38,199 INFO :: Binance futures inicialized
+2022-02-10 15:31:16,940 INFO :: This is logged in all cases
+2022-02-10 15:31:16,941 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:31:16,941 INFO :: Binance futures inicialized
+2022-02-10 15:32:01,109 INFO :: This is logged in all cases
+2022-02-10 15:32:01,110 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:32:01,110 INFO :: Binance futures inicialized
+2022-02-10 15:32:40,076 INFO :: This is logged in all cases
+2022-02-10 15:32:40,077 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:32:40,077 INFO :: Binance futures inicialized
+2022-02-10 15:33:05,145 INFO :: This is logged in all cases
+2022-02-10 15:33:05,145 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:33:05,145 INFO :: Binance futures inicialized
+2022-02-10 15:36:37,231 INFO :: This is logged in all cases
+2022-02-10 15:36:37,232 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:36:37,232 INFO :: Binance futures inicialized
+2022-02-10 15:36:55,336 INFO :: This is logged in all cases
+2022-02-10 15:36:55,336 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:36:55,336 INFO :: Binance futures inicialized
+2022-02-10 15:37:11,670 INFO :: This is logged in all cases
+2022-02-10 15:37:11,671 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:37:11,671 INFO :: Binance futures inicialized
+2022-02-10 15:37:41,659 INFO :: This is logged in all cases
+2022-02-10 15:37:41,660 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:37:41,660 INFO :: Binance futures inicialized
+2022-02-10 15:39:03,542 INFO :: This is logged in all cases
+2022-02-10 15:39:03,543 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:39:03,543 INFO :: Binance futures inicialized
+2022-02-10 15:39:47,378 INFO :: This is logged in all cases
+2022-02-10 15:39:47,379 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:39:47,379 INFO :: Binance futures inicialized
+2022-02-10 15:40:08,685 INFO :: This is logged in all cases
+2022-02-10 15:40:08,686 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:40:08,686 INFO :: Binance futures inicialized
+2022-02-10 15:40:45,225 INFO :: This is logged in all cases
+2022-02-10 15:40:45,225 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:40:45,226 INFO :: Binance futures inicialized
+2022-02-10 15:53:19,940 INFO :: This is logged in all cases
+2022-02-10 15:53:19,941 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:53:19,941 INFO :: Binance futures inicialized
+2022-02-10 15:55:30,211 INFO :: This is logged in all cases
+2022-02-10 15:55:30,212 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:55:30,212 INFO :: Binance futures inicialized
+2022-02-10 15:59:31,140 INFO :: This is logged in all cases
+2022-02-10 15:59:31,141 INFO :: This is looged only if we execute the main.py file
+2022-02-10 15:59:31,141 INFO :: Binance futures inicialized
+2022-02-10 16:00:20,358 INFO :: This is logged in all cases
+2022-02-10 16:00:20,359 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:00:20,359 INFO :: Binance futures inicialized
+2022-02-10 16:00:45,449 INFO :: This is logged in all cases
+2022-02-10 16:00:45,450 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:00:45,450 INFO :: Binance futures inicialized
+2022-02-10 16:02:23,138 INFO :: This is logged in all cases
+2022-02-10 16:02:23,139 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:02:23,139 INFO :: Binance futures inicialized
+2022-02-10 16:03:35,956 INFO :: This is logged in all cases
+2022-02-10 16:03:35,957 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:03:35,957 INFO :: Binance futures inicialized
+2022-02-10 16:04:10,551 INFO :: This is logged in all cases
+2022-02-10 16:04:10,552 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:04:10,552 INFO :: Binance futures inicialized
+2022-02-10 16:04:39,961 INFO :: This is logged in all cases
+2022-02-10 16:04:39,962 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:04:39,962 INFO :: Binance futures inicialized
+2022-02-10 16:05:15,869 INFO :: This is logged in all cases
+2022-02-10 16:05:15,870 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:05:15,870 INFO :: Binance futures inicialized
+2022-02-10 16:05:59,289 INFO :: This is logged in all cases
+2022-02-10 16:05:59,290 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:05:59,290 INFO :: Binance futures inicialized
+2022-02-10 16:06:40,509 INFO :: This is logged in all cases
+2022-02-10 16:06:40,509 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:06:40,509 INFO :: Binance futures inicialized
+2022-02-10 16:09:02,777 INFO :: This is logged in all cases
+2022-02-10 16:09:02,778 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:09:02,778 INFO :: Binance futures inicialized
+2022-02-10 16:10:08,448 INFO :: This is logged in all cases
+2022-02-10 16:10:08,449 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:10:08,449 INFO :: Binance futures inicialized
+2022-02-10 16:10:21,165 INFO :: This is logged in all cases
+2022-02-10 16:10:21,166 INFO :: This is looged only if we execute the main.py file
+2022-02-10 16:10:21,166 INFO :: Binance futures inicialized
+2022-02-19 19:06:23,689 INFO :: This is logged in all cases
+2022-02-19 19:06:23,690 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:06:23,690 INFO :: Binance futures inicialized
+2022-02-19 19:06:36,875 INFO :: This is logged in all cases
+2022-02-19 19:06:36,876 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:06:36,876 INFO :: Binance futures inicialized
+2022-02-19 19:07:08,438 INFO :: This is logged in all cases
+2022-02-19 19:07:08,438 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:07:08,438 INFO :: Binance futures inicialized
+2022-02-19 19:07:38,337 INFO :: This is logged in all cases
+2022-02-19 19:07:38,338 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:07:38,338 INFO :: Binance futures inicialized
+2022-02-19 19:08:50,031 INFO :: This is logged in all cases
+2022-02-19 19:08:50,032 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:08:50,032 INFO :: Binance futures inicialized
+2022-02-19 19:20:31,948 INFO :: This is logged in all cases
+2022-02-19 19:20:31,949 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:20:31,949 INFO :: Binance futures inicialized
+2022-02-19 19:21:50,402 INFO :: This is logged in all cases
+2022-02-19 19:21:50,403 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:21:50,403 INFO :: Binance futures inicialized
+2022-02-19 19:23:51,839 INFO :: This is logged in all cases
+2022-02-19 19:23:51,840 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:23:51,840 INFO :: Binance futures inicialized
+2022-02-19 19:24:21,125 INFO :: This is logged in all cases
+2022-02-19 19:24:21,126 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:24:21,126 INFO :: Binance futures inicialized
+2022-02-19 19:24:29,182 INFO :: This is logged in all cases
+2022-02-19 19:24:29,183 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:24:29,183 INFO :: Binance futures inicialized
+2022-02-19 19:25:36,314 INFO :: This is logged in all cases
+2022-02-19 19:25:36,315 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:25:36,315 INFO :: Binance futures inicialized
+2022-02-19 19:27:24,255 INFO :: This is logged in all cases
+2022-02-19 19:27:24,256 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:27:24,256 INFO :: Binance futures inicialized
+2022-02-19 19:28:40,560 INFO :: This is logged in all cases
+2022-02-19 19:28:40,561 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:28:40,561 INFO :: Binance futures inicialized
+2022-02-19 19:29:32,509 INFO :: This is logged in all cases
+2022-02-19 19:29:32,510 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:29:32,510 INFO :: Binance futures inicialized
+2022-02-19 19:30:33,285 INFO :: This is logged in all cases
+2022-02-19 19:30:33,286 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:30:33,286 INFO :: Binance futures inicialized
+2022-02-19 19:32:27,773 INFO :: This is logged in all cases
+2022-02-19 19:32:27,773 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:32:27,773 INFO :: Binance futures inicialized
+2022-02-19 19:33:03,198 INFO :: This is logged in all cases
+2022-02-19 19:33:03,199 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:33:03,199 INFO :: Binance futures inicialized
+2022-02-19 19:34:36,829 INFO :: This is logged in all cases
+2022-02-19 19:34:36,829 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:34:36,829 INFO :: Binance futures inicialized
+2022-02-19 19:34:57,446 INFO :: This is logged in all cases
+2022-02-19 19:34:57,446 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:34:57,446 INFO :: Binance futures inicialized
+2022-02-19 19:35:34,578 INFO :: This is logged in all cases
+2022-02-19 19:35:34,579 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:35:34,579 INFO :: Binance futures inicialized
+2022-02-19 19:36:45,679 INFO :: This is logged in all cases
+2022-02-19 19:36:45,680 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:36:45,680 INFO :: Binance futures inicialized
+2022-02-19 19:38:59,484 INFO :: This is logged in all cases
+2022-02-19 19:38:59,485 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:38:59,485 INFO :: Binance futures inicialized
+2022-02-19 19:40:27,825 INFO :: This is logged in all cases
+2022-02-19 19:40:27,826 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:40:27,826 INFO :: Binance futures inicialized
+2022-02-19 19:41:48,068 INFO :: This is logged in all cases
+2022-02-19 19:41:48,069 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:41:48,069 INFO :: Binance futures inicialized
+2022-02-19 19:42:39,830 INFO :: This is logged in all cases
+2022-02-19 19:42:39,831 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:42:39,831 INFO :: Binance futures inicialized
+2022-02-19 19:43:23,660 INFO :: This is logged in all cases
+2022-02-19 19:43:23,661 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:43:23,661 INFO :: Binance futures inicialized
+2022-02-19 19:44:27,207 INFO :: This is logged in all cases
+2022-02-19 19:44:27,207 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:44:27,207 INFO :: Binance futures inicialized
+2022-02-19 19:45:19,233 INFO :: This is logged in all cases
+2022-02-19 19:45:19,234 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:45:19,234 INFO :: Binance futures inicialized
+2022-02-19 19:46:06,448 INFO :: This is logged in all cases
+2022-02-19 19:46:06,449 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:46:06,449 INFO :: Binance futures inicialized
+2022-02-19 19:47:10,923 INFO :: This is logged in all cases
+2022-02-19 19:47:10,924 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:47:10,924 INFO :: Binance futures inicialized
+2022-02-19 19:47:49,410 INFO :: This is logged in all cases
+2022-02-19 19:47:49,411 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:47:49,411 INFO :: Binance futures inicialized
+2022-02-19 19:48:34,704 INFO :: This is logged in all cases
+2022-02-19 19:48:34,705 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:48:34,705 INFO :: Binance futures inicialized
+2022-02-19 19:49:16,654 INFO :: This is logged in all cases
+2022-02-19 19:49:16,655 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:49:16,655 INFO :: Binance futures inicialized
+2022-02-19 19:49:39,078 INFO :: This is logged in all cases
+2022-02-19 19:49:39,079 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:49:39,079 INFO :: Binance futures inicialized
+2022-02-19 19:54:15,013 INFO :: This is logged in all cases
+2022-02-19 19:54:15,014 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:54:15,014 INFO :: Binance futures inicialized
+2022-02-19 19:54:30,028 INFO :: This is logged in all cases
+2022-02-19 19:54:30,029 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:54:30,029 INFO :: Binance futures inicialized
+2022-02-19 19:55:23,437 INFO :: This is logged in all cases
+2022-02-19 19:55:23,438 INFO :: This is looged only if we execute the main.py file
+2022-02-19 19:55:23,438 INFO :: Binance futures inicialized
